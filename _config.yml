@@ -13,7 +13,7 @@ name                     : &name "Zhen Tan"
 description              : &description "personal description"
 url                      : https://zhen-tan-dmml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sudo-Boris/sudo-Boris.github.io"
+repository               : "Zhen-Tan-dmml/Zhen-Tan-dmml.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "Zhen Tan"
   avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \nsoon under Prof. Marcus Rohrbach"
-  location         : "Berlin, Germany"
-  employer         : "Fraunhofer Heinrich Hertz Institute"
+  bio              : "Data Mining and Machine Learning \nunder Prof. Huan Liu"
+  location         : "Tempe, AZ, USA"
+  employer         : "Arizona State University"
   pubmed           : 
   googlescholar    : 
-  email            : "boris.meinardus@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ztan36@asu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Zhen-Tan-19" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "Zhen-Tan-dmml"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : "zhentam"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BorisMeinardus"
+  twitter          : # "BorisMeinardus"
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : # "@borismeinardus"
   wikipedia        :
 
 
