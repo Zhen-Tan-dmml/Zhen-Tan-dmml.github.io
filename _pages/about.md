@@ -17,7 +17,7 @@ redirect_from:
  
 📚 I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale! I am also holding a visiting reseacher position at [Harvard Medical School](https://hms.harvard.edu/).
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📽️ I am also interested in assisting others on their path in the world of Data Mining, Machine Learning and academia. Feel free to contact me!
 
 <!-- # News
 * Item 1
