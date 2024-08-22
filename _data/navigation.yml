@@ -5,8 +5,8 @@ main:
     url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
 
-  - title: "Experience"
-    url: /portfolio/
+  - title: "Biography"
+    url: /biography/
 
   - title: "CV"
     # url: /cv/
