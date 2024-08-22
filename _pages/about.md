@@ -15,13 +15,15 @@ redirect_from:
 
 🔬 My research interests are generally in data mining, machine learning, and large foundation models. Specifically, my research focuses lie in pragmatic AI systems that are **trustworthy and efficient**. Meanwhile, I am deeply committed to creating AI algorithms that are guided by domain-specific knowledge, with the goal of driving significant advancements in fields like healthcare, social science, and education.
  
-📚 I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale!
+📚 I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale! I also hold a visiting reseacher position at [Harvard Medical School](https://hms.harvard.edu/).
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 <!-- # News
 * Item 1
 * Item 2 -->
+
+# Experience
 
 <!-- ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
