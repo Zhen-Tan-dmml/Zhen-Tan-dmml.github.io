@@ -20,8 +20,22 @@ M.S., Electrical and Computer Engineering <br>
 Advisor: [Dr. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) & [Dr. Manish Pandey](https://www.ece.cmu.edu/directory/bios/pandey-manish.html) <br>
 
 Huazhong University of Science and Technology (HUST), Wuhan, Hubei <br>
-B.S. Electrical Engineering <br>
+B.S., Electrical Engineering <br>
 
 # Industrial Experiences
 
 * **Google Cloud AI**, Research Intern, 2024
+* **Amazon Science**, Applied Scientist Intern, 2024
+* **Mercari, Inc.**, Research Intern, Intern, 2023
+
+# Professional Services
+
+**Program Committee / Reviewer**
+KDD 2025, AAAI 2025, CIKM 2024, ARR 2024, KDD 2024, CVPR 2024, SDM 2024, AAAI 2024, LoG 2024, ARR 2023, ICDM 2023, SIGKDD 2023, <br> 
+CPAL 2023, LoG 2023, UAI 2023, SIGIR 2023, WWW 2023, SIGKDD 2022, Big Data 2022, CIKM2022, WSDM 2022, SIGKDD 2021, CIKM 2021
+
+**Journal Reviewer**
+TKDE, TKDD, TNNLS
+
+
+
