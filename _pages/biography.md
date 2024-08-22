@@ -37,5 +37,15 @@ CPAL 2023, LoG 2023, UAI 2023, SIGIR 2023, WWW 2023, SIGKDD 2022, Big Data 2022,
 **Journal Reviewer**
 TKDE, TKDD, TNNLS
 
+# Awards
+
+* PAKDD Best Paper Award 2024
+* SDM Student Travel Award 2024
+* AAAI NSF Travel Award 2024
+* AAAI Student Travel Award 2024
+* SIGKDD Student Travel Award 2023
+* WSDM Student Travel Award 2022
+* ASU Fulton Fellowship 2021
+
 
 
