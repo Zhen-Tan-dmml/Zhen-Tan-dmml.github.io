@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Biography"
-collection: biography
+permalink: /biography/
+author_profile: true
 ---
 
 # Education
