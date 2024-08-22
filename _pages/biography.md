@@ -1,10 +1,11 @@
 ---
 layout: archive
+title: "Education"
 permalink: /biography/
 author_profile: true
 ---
 
-## Education
+<!-- # Education -->
 
 Arizona State University (ASU), Tempe, Arizona <br>
 Ph.D., Computer Science <br>
@@ -21,6 +22,6 @@ Advisor: [Dr. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) & [Dr. Manish P
 Huazhong University of Science and Technology (HUST), Wuhan, Hubei <br>
 B.S. Electrical Engineering <br>
 
-## Industrial Experiences
+# Industrial Experiences
 
-* Google LLC,
+* **Google Cloud AI**, Research Intern, 2024
