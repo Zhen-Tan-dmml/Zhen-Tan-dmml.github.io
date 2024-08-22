@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a 4th year PhD student at the [Arizona State University](https://www.asu.edu/) under the supervision of [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale!
+👨🏻‍💻 I'm a 4th year Ph.D. student at the [Arizona State University](https://www.asu.edu/) in Computer Science under the supervision of [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I received my master's and bachelor's degrees from [Carnegie Mellon University](https://www.cmu.edu/) and [Huazhong University of Science and Technology](https://english.hust.edu.cn/). I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale!
 
 🔬 My research interests are generally in data mining, machine learning, and large foundation models. More specifically, my in pragmatic AI systems!
 
