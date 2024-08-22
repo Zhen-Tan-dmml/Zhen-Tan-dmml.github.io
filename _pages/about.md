@@ -19,9 +19,9 @@ redirect_from:
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
-# News
+<!-- # News
 * Item 1
-* Item 2
+* Item 2 -->
 
 <!-- # Experience -->
 
