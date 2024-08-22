@@ -1,19 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Biography"
-    url: /biography/
-
   - title: "CV"
     # url: /cv/
-    url: /files/Resume.pdf
+    url: /notfound/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
   
-  
+  - title: "Publications"
+    url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
