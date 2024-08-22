@@ -41,7 +41,7 @@ Dawei Li, **Zhen Tan**, Tianlong Chen, Huan Liu. <br>
 *Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)*
 
 * Disinformation detection: An evolving challenge in the age of LLMs <br>
-Bohan Jiang, Zhen Tan, Ayushi Nirmal, Huan Liu. <br>
+Bohan Jiang, **Zhen Tan**, Ayushi Nirmal, Huan Liu. <br>
 *SIAM International Conference on Data Mining (SDM 2024)*
 
 * Facial Affective Behavior Analysis with Instruction Tuning <br>
