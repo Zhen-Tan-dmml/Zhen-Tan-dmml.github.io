@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Zhen!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,9 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm a 4th year PhD student at the [Arizona State University](https://www.asu.edu/) under the supervision of [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale!
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are generally in data mining, machine learning, and large foundation models. More specifically, my in pragmatic AI systems!
 
 📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
 
