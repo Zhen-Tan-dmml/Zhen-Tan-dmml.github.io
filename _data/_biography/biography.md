@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Biography"
+collection: biography
+---
+
 # Education
 
 Arizona State University (ASU), Tempe, Arizona
