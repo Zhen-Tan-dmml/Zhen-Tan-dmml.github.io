@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprint"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Preprints
 
-{% include base_path %}
+* "Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models <br>
+Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs <br>
+Zhen Tan, Daize Dong, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen

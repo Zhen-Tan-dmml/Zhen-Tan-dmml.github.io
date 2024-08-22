@@ -39,13 +39,13 @@ TKDE, TKDD, TNNLS
 
 # Awards
 
-* PAKDD Best Paper Award 2024
-* SDM Student Travel Award 2024
-* AAAI NSF Travel Award 2024
-* AAAI Student Travel Award 2024
-* SIGKDD Student Travel Award 2023
-* WSDM Student Travel Award 2022
-* ASU Fulton Fellowship 2021
+* **PAKDD Best Paper Award** 2024
+* **SDM Student Travel Award** 2024
+* **AAAI NSF Travel Award 2024**
+* **AAAI Student Travel Award** 2024
+* **SIGKDD Student Travel Award** 2023
+* **WSDM Student Travel Award** 2022
+* **ASU Fulton Fellowship** 2021
 
 
 
