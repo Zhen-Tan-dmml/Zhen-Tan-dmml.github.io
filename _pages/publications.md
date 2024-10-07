@@ -5,14 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-* "Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models <br>
-**Zhen Tan**, Chengshuai Zhao, Raha Moraffah, Yifan Li, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. 
+
 
 * DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs <br>
 **Zhen Tan**, Daize Dong, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
 
-* Large language models for data annotation: A survey <br>
-**Zhen Tan**, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu
 
 * Tuning-Free Accountable Intervention for LLM Deployment--A Metacognitive Approach <br>
 **Zhen Tan**, Jie Peng, Tianlong Chen, Huan Liu.
@@ -23,6 +20,13 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 # Conference/Journal Papers (* indicates equal contributions)
 
 ## 2024
+* Large language models for data annotation: A survey <br>
+**Zhen Tan\***, Dawei Li\*, Song Wang\*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu. <br>
+*The Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*
+
+* "Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models <br>
+**Zhen Tan\***, Chengshuai Zhao\*, Raha Moraffah, Yifan Li, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. <br>
+*The Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*
 
 * Interpreting pretrained language models via concept bottlenecks <br>
 **Zhen Tan**, Lu Cheng, Song Wang, Bo Yuan, Jundong Li, Huan Liu. <br>
