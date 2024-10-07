@@ -30,8 +30,7 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 
 * Interpreting pretrained language models via concept bottlenecks <br>
 **Zhen Tan**, Lu Cheng, Song Wang, Bo Yuan, Jundong Li, Huan Liu. <br>
-*Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2024), <span style="color:red">**Best Paper Award** *red* text</span>.
-*
+*Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2024), <span style="color:red">**Best Paper Award**</span>.*
 
 * Sparsity-guided holistic explanation for llms with interpretable inference-time intervention <br>
 **Zhen Tan**, Tianlong Chen, Zhenyu Zhang, Huan Liu. <br>
