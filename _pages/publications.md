@@ -42,7 +42,7 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 
 * Exploring Large Language Models for Feature Selection: A Data-centric Perspective <br>
 Dawei Li\*, **Zhen Tan\***, Huan Liu. <br>
-*ACM SIGKDD explorations newsletter (KDD explorations 2024)*
+*ACM SIGKDD Explorations Newsletter (KDD Explorations 2024)*
 
 * DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature <br>
 Dawei Li\*, Shu Yang\*, **Zhen Tan**, Jae Young Baik, Sunkwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen. <br>
