@@ -22,11 +22,11 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 ## 2024
 * Large language models for data annotation: A survey <br>
 **Zhen Tan\***, Dawei Li\*, Song Wang\*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu. <br>
-*The Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*
 
 * *Glue pizza and eat rocks*--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models <br>
 **Zhen Tan\***, Chengshuai Zhao\*, Raha Moraffah, Yifan Li, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. <br>
-*The Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*
 
 * Interpreting pretrained language models via concept bottlenecks <br>
 **Zhen Tan**, Lu Cheng, Song Wang, Bo Yuan, Jundong Li, Huan Liu. <br>
@@ -46,7 +46,7 @@ Dawei Li\*, **Zhen Tan\***, Huan Liu. <br>
 
 * DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature <br>
 Dawei Li\*, Shu Yang\*, **Zhen Tan**, Jae Young Baik, Sunkwon Yun, Joseph Lee, Aaron Chacko, Bojian Hou, Duy Duong-Tran, Ying Ding, Huan Liu, Li Shen, Tianlong Chen. <br>
-*The Conference on Empirical Methods in Natural Language Processing (EMNLP Finding 2024)*
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Finding 2024)*
 
 * Contextualization distillation from large language model for knowledge graph completion <br>
 Dawei Li, **Zhen Tan**, Tianlong Chen, Huan Liu. <br>
