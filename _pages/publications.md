@@ -80,6 +80,10 @@ Chi-Yang Hsu, Kyle Cox, Jiawei Xu, **Zhen Tan**, Tianhua Zhai, Mengzhou Hu, Dext
 Bohan Jiang, Chengshuai Zhao, **Zhen Tan**, Huan Liu. <br>
 *IEEE International Conference on Cognitive Machine Intelligence (CogMI 2024)*
 
+* CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models <br>
+Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
+*Socially Responsible Language Modelling Research Workshop @ Conference on Neural Information Processing Systems (SoLaR@NeurIPS 2024)*
+
 ## 2023
 
 * Virtual Node Tuning for Few-shot Node Classification <br>
