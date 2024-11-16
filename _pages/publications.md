@@ -28,7 +28,7 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 ## 2024
 * Large language models for data annotation: A survey <br>
 **Zhen Tan\***, Dawei Li\*, Song Wang\*, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu. <br>
-*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024)*  <span style="color:red">**Oral**</span>.*
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2024),  <span style="color:red">**Oral**</span>.*
 
 * *Glue pizza and eat rocks*--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models <br>
 **Zhen Tan\***, Chengshuai Zhao\*, Raha Moraffah, Yifan Li, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. <br>
@@ -84,7 +84,7 @@ Chi-Yang Hsu, Kyle Cox, Jiawei Xu, **Zhen Tan**, Tianhua Zhai, Mengzhou Hu, Dext
 
 * Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models <br>
 Bohan Jiang, Chengshuai Zhao, **Zhen Tan**, Huan Liu. <br>
-*IEEE International Conference on Cognitive Machine Intelligence (CogMI 2024)*  <span style="color:red">**Best Student Paper Award**</span>.*
+*IEEE International Conference on Cognitive Machine Intelligence (CogMI 2024),  <span style="color:red">**Best Student Paper Award**</span>.*
 
 * CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
