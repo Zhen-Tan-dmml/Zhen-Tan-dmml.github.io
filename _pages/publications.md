@@ -14,10 +14,16 @@ author_profile: true
 * Tuning-Free Accountable Intervention for LLM Deployment--A Metacognitive Approach <br>
 **Zhen Tan**, Jie Peng, Tianlong Chen, Huan Liu.
 
-* MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems <br>
-Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar.
+
 
 # Conference/Journal Papers (* indicates equal contributions)
+
+
+## 2025
+* MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems <br>
+Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. <br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*
+
 
 ## 2024
 * Large language models for data annotation: A survey <br>

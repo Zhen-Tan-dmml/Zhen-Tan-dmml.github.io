@@ -1,20 +1,7 @@
-# Education
+---
+title: "RCPPO"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
+collection: portfolio
+---
 
-Arizona State University (ASU), Tempe, Arizona
-Ph.D., Computer Science 
-Advisor: [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/), Fellow of ACM, IEEE, AAAI, and AAAS 
-
-Harvard University, Cambridge, Massachusetts
-Visiting Scholar, Medical School
-Advisor: [Dr. Kun-Hsing Yu](https://yulab.hms.harvard.edu/yu/)
-
-Carnegie Mellon University (CMU), Pittsburgh, Pennsylvania
-M.S., Electrical and Computer Engineering
-Advisor: [Dr. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) & [Dr. Manish Pandey](https://www.ece.cmu.edu/directory/bios/pandey-manish.html)
-
-Huazhong University of Science and Technology (HUST), Wuhan, Hubei
-B.S. Electrical Engineering
-
-# Industrial Experiences
-
-* Google LLC,
+In this project I implemented the [Reward Constrained Policy Optimization Paper](https://openreview.net/pdf?id=SkfrvsA9FX) by Tessler et al. into stable-baselines3 implementation of PPO. Additionally, I reproduced the original results by tracking my experiments using weights and biases. The code for this project can be found [here](https://github.com/sudo-Boris/stable-baselines3). I also wrote an article elaborating on the theory of RCPO and my results and submitted it to the ICLR Blogposts Track! You can fin the article [here](https://iclr-blogposts.github.io/staging/blog/2023/Adaptive-Reward-Penalty-in-Safe-Reinforcement-Learning/)
