@@ -62,7 +62,7 @@ Dawei Li, **Zhen Tan**, Tianlong Chen, Huan Liu. <br>
 Bohan Jiang, **Zhen Tan**, Ayushi Nirmal, Huan Liu. <br>
 *SIAM International Conference on Data Mining (SDM 2024)*
 
-*BlueTempNet: A Temporal Multi-network Dataset of Social Interactions in Bluesky Social <br>
+* BlueTempNet: A Temporal Multi-network Dataset of Social Interactions in Bluesky Social <br>
 Ujun Jeong, Bohan Jiang, **Zhen Tan**, Russell Bernard, Huan Liu. <br>
 *IEEE Data Descriptions, 2024. Reported by the [<span style="color:red">**Science Magazine**</span>](https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky).*
 
