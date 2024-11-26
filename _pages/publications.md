@@ -95,6 +95,10 @@ Bohan Jiang, Chengshuai Zhao, **Zhen Tan**, Huan Liu. <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
 *Socially Responsible Language Modelling Research Workshop @ Conference on Neural Information Processing Systems (SoLaR@NeurIPS 2024)*
 
+* Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering <br>
+Awais Naeem, Tianhao Li, Huang-Ru Liao, Jiawei Xu, Aby Mammen Mathew, Zehao Zhu, **Zhen Tan**, Ajay Kumar Jaiswal, Raffi A. Salibian, Ziniu Hu, Tianlong Chen, Ying Ding. <br>
+*Machine Learning for Health Symposium (ML4H 2024)*
+
 ## 2023
 
 * Virtual Node Tuning for Few-shot Node Classification <br>
