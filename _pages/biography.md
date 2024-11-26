@@ -40,6 +40,7 @@ TKDE, TKDD, TNNLS
 # Awards
 
 * **PAKDD Best Paper Award** 2024
+* **CogMI Best Student Paper Award** 2024
 * **SDM Student Travel Award** 2024
 * **AAAI NSF Travel Award 2024**
 * **AAAI Student Travel Award** 2024
