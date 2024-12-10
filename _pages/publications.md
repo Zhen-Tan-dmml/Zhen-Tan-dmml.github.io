@@ -27,7 +27,7 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 
 
 * BrainMAP: Learning Multiple Activation Pathways in Brain Network <br>
-Song Wang*, Zhenyu Lei*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
+Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2025)*
 
 
