@@ -20,9 +20,20 @@ author_profile: true
 
 
 ## 2025
+* Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach <br>
+**Zhen Tan**, Jie Peng, Song Wang, Lijie Hu, Tianlong Chen, Huan Liu. <br>
+*Annual AAAI Conference on Artificial Intelligence (AAAI 2025)*
+
+
 * MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems <br>
 Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*
+
+
+* BrainMAP: Learning Multiple Activation Pathways in Brain Network <br>
+Song Wang*, Zhenyu Lei*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
+*Annual AAAI Conference on Artificial Intelligence (AAAI 2025)*
+
 
 
 ## 2024
