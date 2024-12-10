@@ -11,10 +11,6 @@ author_profile: true
 **Zhen Tan**, Daize Dong, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
 
 
-* Tuning-Free Accountable Intervention for LLM Deployment--A Metacognitive Approach <br>
-**Zhen Tan**, Jie Peng, Tianlong Chen, Huan Liu.
-
-
 
 # Conference/Journal Papers (* indicates equal contributions)
 
