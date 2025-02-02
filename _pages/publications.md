@@ -34,6 +34,10 @@ Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Gu
 Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 *Transactions on Machine Learning Research (TMLR 2025).*
 
+* CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models <br>
+Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
+*International Conference on Learning Representations (ICLR 2025).*
+
 
 
 ## 2024
