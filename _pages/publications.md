@@ -30,6 +30,11 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2025),  <span style="color:red">**Oral**</span>.*
 
+* SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents <br>
+Dawei Li, **Zhen Tan**, Peijia Qian, Yifan Li, Kumar Chaudhary, Lijie Hu, Jiayi Shen. <br>
+*Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).*
+
+
 * Generative Risk Minimization for Out-of-Distribution Generalization on Graphs <br>
 Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 *Transactions on Machine Learning Research (TMLR 2025).*
