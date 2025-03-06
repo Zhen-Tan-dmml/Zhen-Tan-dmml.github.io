@@ -7,8 +7,7 @@ author_profile: true
 
 
 
-* DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs <br>
-**Zhen Tan**, Daize Dong, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
+
 
 
 
@@ -20,6 +19,9 @@ author_profile: true
 **Zhen Tan**, Jie Peng, Song Wang, Lijie Hu, Tianlong Chen, Huan Liu. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2025),  <span style="color:red">**Oral**</span>.*
 
+* DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs <br>
+**Zhen Tan\***, Daize Dong\*, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
+*Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE@ICLR 2025)*
 
 * MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems <br>
 Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. <br>
@@ -43,6 +45,9 @@ Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
 *International Conference on Learning Representations (ICLR 2025).*
 
+* Editable Concept Bottleneck Models <br>
+Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang
+*Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM@ICLR 2025)*
 
 
 ## 2024
