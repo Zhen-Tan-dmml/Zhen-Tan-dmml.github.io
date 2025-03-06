@@ -6,6 +6,20 @@ author_profile: true
 ---
 
 
+* Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
+Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
+
+* SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention <br>
+Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu. <br>
+
+* Assessing the Impact of Conspiracy Theories Using Large Language Models <br>
+Bohan Jiang, Dawei Li, Zhen Tan, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H Russell Bernard, Huan Liu. <br>
+
+* Visual Large Language Models for Generalized and Specialized Applications <br>
+Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, Dong Liu, Huan Liu, Yu Kong. <br>
+
+* Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education <br>
+Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Ying-Chih Chen, Huan Liu. <br>
 
 
 
@@ -50,7 +64,7 @@ Xinyan Zhao, Chengshuai Zhao, Chau-Wai Wong, **Zhen Tan**, Mengqi Zhan, Tianlong
 *Annual International Communication Association Conference (ICA 2025).*
 
 * Editable Concept Bottleneck Models <br>
-Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang
+Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
 *Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM@ICLR 2025)*
 
 
