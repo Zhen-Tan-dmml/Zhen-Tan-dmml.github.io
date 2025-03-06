@@ -13,7 +13,7 @@ Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng,
 Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu. <br>
 
 * Assessing the Impact of Conspiracy Theories Using Large Language Models <br>
-Bohan Jiang, Dawei Li, Zhen Tan, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H Russell Bernard, Huan Liu. <br>
+Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H Russell Bernard, Huan Liu. <br>
 
 * Visual Large Language Models for Generalized and Specialized Applications <br>
 Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, Dong Liu, Huan Liu, Yu Kong. <br>
