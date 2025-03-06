@@ -45,6 +45,10 @@ Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
 *International Conference on Learning Representations (ICLR 2025).*
 
+* Automating Content Analysis with Multi-LLM Agents: Impacts of Agent Attributes and Human–AI Collaboration <br>
+Xinyan Zhao, Chengshuai Zhao, Chau-Wai Wong, **Zhen Tan**, Mengqi Zhan, Tianlong Chen. <br>
+*Annual International Communication Association Conference (ICA 2025).*
+
 * Editable Concept Bottleneck Models <br>
 Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang
 *Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM@ICLR 2025)*
