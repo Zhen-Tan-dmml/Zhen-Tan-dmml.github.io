@@ -57,7 +57,7 @@ Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 
 * CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
-*International Conference on Learning Representations (ICLR 2025).*
+*International Conference on Learning Representations (ICLR 2025),  <span style="color:red">**Spotlight**</span>.*
 
 * Automating Content Analysis with Multi-LLM Agents: Impacts of Agent Attributes and Human–AI Collaboration <br>
 Xinyan Zhao, Chengshuai Zhao, Chau-Wai Wong, **Zhen Tan**, Mengqi Zhan, Tianlong Chen. <br>
