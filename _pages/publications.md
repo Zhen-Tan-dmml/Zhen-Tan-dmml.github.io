@@ -63,6 +63,11 @@ Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
 Xinyan Zhao, Chengshuai Zhao, Chau-Wai Wong, **Zhen Tan**, Mengqi Zhan, Tianlong Chen. <br>
 *Annual International Communication Association Conference (ICA 2025).*
 
+* Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models <br>
+Joseph Lee\*, Shu Yang\*, Jae Young Baik, Xiaoxi Liu, **Zhen Tan**, Dawei Li, Zixuan Wen, Bojian Hou, Duy Duong-Tran, Tianlong Chen, Li Shen. <br>
+*America Medical Information Association Informatics Summit (AMIA-IS 2025), <span style="color:red">**Marco Ramoni Distinguished Paper Award**</span>.*
+
+
 * Editable Concept Bottleneck Models <br>
 Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
 *Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM@ICLR 2025)*
