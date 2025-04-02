@@ -67,6 +67,11 @@ Xinyan Zhao, Chengshuai Zhao, Chau-Wai Wong, **Zhen Tan**, Mengqi Zhan, Tianlong
 Joseph Lee\*, Shu Yang\*, Jae Young Baik, Xiaoxi Liu, **Zhen Tan**, Dawei Li, Zixuan Wen, Bojian Hou, Duy Duong-Tran, Tianlong Chen, Li Shen. <br>
 *America Medical Information Association Informatics Summit (AMIA-IS 2025), <span style="color:red">**Marco Ramoni Distinguished Paper Award**</span>.*
 
+* Window Token Concatenation for Efficient Visual Large Language Models <br>
+Yifan Li, Wentao Bao, Botao Ye, **Zhen Tan**, Tianlong Chen, Huan Liu, Yu Kong. <br>
+*Efficient Large Vision Models @ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPRW 2025).*
+
+
 
 * Editable Concept Bottleneck Models <br>
 Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
