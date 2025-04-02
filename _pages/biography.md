@@ -31,7 +31,7 @@ B.S., Electrical Engineering <br>
 # Professional Services
 
 **Program Committee / Reviewer** <br>
-KDD 2025, AAAI 2025, CIKM 2024, ARR 2024, KDD 2024, CVPR 2024, SDM 2024, AAAI 2024, LoG 2024, ARR 2023, ICDM 2023, SIGKDD 2023, 
+ARR 2025, ICML 2025, KDD 2025, AAAI 2025, CIKM 2024, ARR 2024, KDD 2024, CVPR 2024, SDM 2024, AAAI 2024, LoG 2024, ARR 2023, ICDM 2023, SIGKDD 2023, 
 CPAL 2023, LoG 2023, UAI 2023, SIGIR 2023, WWW 2023, SIGKDD 2022, Big Data 2022, CIKM2022, WSDM 2022, SIGKDD 2021, CIKM 2021
 
 **Journal Reviewer** <br>
@@ -39,6 +39,7 @@ TPAMI, TKDE, TKDD, TNNLS
 
 # Awards
 
+* **AAAI Student Travel Award** 2025
 * **PAKDD Best Paper Award** 2024
 * **CogMI Best Student Paper Award** 2024
 * **SDM Student Travel Award** 2024
