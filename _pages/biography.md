@@ -38,7 +38,8 @@ CPAL 2023, LoG 2023, UAI 2023, SIGIR 2023, WWW 2023, SIGKDD 2022, Big Data 2022,
 TPAMI, TKDE, TKDD, TNNLS
 
 # Awards
-
+* **University Graduate Fellowship** Spring 2025
+* **OpenAI Researcher Access Award** 2025
 * **AAAI Student Travel Award** 2025
 * **PAKDD Best Paper Award** 2024
 * **CogMI Best Student Paper Award** 2024
