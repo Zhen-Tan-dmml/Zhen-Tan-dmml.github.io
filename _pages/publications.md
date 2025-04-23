@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 * Are We Merely Justifying Results ex Post Facto? Quantifying Explanatory Inversion in Post-Hoc Model Explanations <br>
-Zhen Tan, Song Wang, Yifan Li, Yu Kong, Jundong Li, Tianlong Chen, Huan Liu. <br>
+**Zhen Tan**, Song Wang, Yifan Li, Yu Kong, Jundong Li, Tianlong Chen, Huan Liu. <br>
 
 * In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents <br>
-Zhen Tan, Jun Yan, I Hsu, Rujun Han, Zifeng Wang, Long T Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister. <br>
+**Zhen Tan**, Jun Yan, I Hsu, Rujun Han, Zifeng Wang, Long T Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister. <br>
 
 * Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
