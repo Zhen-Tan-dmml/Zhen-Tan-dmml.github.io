@@ -4,6 +4,9 @@ title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
+* Intrinsic Barriers to Explaining Deep Foundation Models <br>
+**Zhen Tan**, Huan Liu. <br>
+
 * Are We Merely Justifying Results ex Post Facto? Quantifying Explanatory Inversion in Post-Hoc Model Explanations <br>
 **Zhen Tan**, Song Wang, Yifan Li, Yu Kong, Jundong Li, Tianlong Chen, Huan Liu. <br>
 
