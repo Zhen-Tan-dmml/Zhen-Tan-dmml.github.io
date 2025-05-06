@@ -42,7 +42,7 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 
 * DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs <br>
 **Zhen Tan\***, Daize Dong\*, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
-*Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE@ICLR 2025)*
+*Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE@ICLR 2025).*
 
 * MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems <br>
 Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. <br>
@@ -64,13 +64,13 @@ Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 
 
 * MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning <br>
-Zihan Chen\*, Song Wang\*, **Zhen Tan**, Jundong Li, Cong Shen
-*International Conference on Machine Learning (ICML 2025)*
+Zihan Chen\*, Song Wang\*, **Zhen Tan**, Jundong Li, Cong Shen. <br>
+*International Conference on Machine Learning (ICML 2025).*
 
 
 * Editable Concept Bottleneck Models <br>
 Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
-*International Conference on Machine Learning (ICML 2025)*
+*International Conference on Machine Learning (ICML 2025).*
 
 
 
