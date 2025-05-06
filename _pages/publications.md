@@ -62,13 +62,17 @@ Dawei Li, **Zhen Tan**, Peijia Qian, Yifan Li, Kumar Chaudhary, Lijie Hu, Jiayi 
 Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
 *Transactions on Machine Learning Research (TMLR 2025).*
 
-* Editable Concept Bottleneck Models <br>
-Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
-*International Conference on Machine Learning (ICML 2025)*
 
 * MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning <br>
 Zihan Chen\*, Song Wang\*, **Zhen Tan**, Jundong Li, Cong Shen
 *International Conference on Machine Learning (ICML 2025)*
+
+
+* Editable Concept Bottleneck Models <br>
+Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
+*International Conference on Machine Learning (ICML 2025)*
+
+
 
 * CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
@@ -85,10 +89,6 @@ Joseph Lee\*, Shu Yang\*, Jae Young Baik, Xiaoxi Liu, **Zhen Tan**, Dawei Li, Zi
 * Window Token Concatenation for Efficient Visual Large Language Models <br>
 Yifan Li, Wentao Bao, Botao Ye, **Zhen Tan**, Tianlong Chen, Huan Liu, Yu Kong. <br>
 *Efficient Large Vision Models @ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPRW 2025).*
-
-
-
-
 
 
 ## 2024
