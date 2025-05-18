@@ -10,14 +10,8 @@ author_profile: true
 * Are We Merely Justifying Results ex Post Facto? Quantifying Explanatory Inversion in Post-Hoc Model Explanations <br>
 **Zhen Tan**, Song Wang, Yifan Li, Yu Kong, Jundong Li, Tianlong Chen, Huan Liu. <br>
 
-* In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents <br>
-**Zhen Tan**, Jun Yan, I Hsu, Rujun Han, Zifeng Wang, Long T Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister. <br>
-
 * Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
-
-* SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention <br>
-Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu. <br>
 
 * Assessing the Impact of Conspiracy Theories Using Large Language Models <br>
 Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H Russell Bernard, Huan Liu. <br>
@@ -36,6 +30,10 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 
 
 ## 2025
+* In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents <br>
+**Zhen Tan**, Jun Yan, I Hsu, Rujun Han, Zifeng Wang, Long T Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister. <br>
+*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
+
 * Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach <br>
 **Zhen Tan**, Jie Peng, Song Wang, Lijie Hu, Tianlong Chen, Huan Liu. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2025),  <span style="color:red">**Oral**</span>.*
@@ -48,6 +46,13 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
 
+* SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention <br>
+Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu. <br>
+*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
+
+* *Agents Under Siege*: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks <br>
+Rana Muhammad Shahroz Khan, Zhen Tan, Sukwon Yun, Charles Flemming, Tianlong Chen. <br>
+*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
 
 * BrainMAP: Learning Multiple Activation Pathways in Brain Network <br>
 Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li. <br>
