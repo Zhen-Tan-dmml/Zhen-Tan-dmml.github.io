@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a 4th-year Ph.D. at the [Arizona State University](https://www.asu.edu/) in Computer Science under the supervision of [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I received my master's and bachelor's degrees from [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), respectively. 
+👨🏻‍💻 I'm a final year Ph.D. at the [Arizona State University](https://www.asu.edu/) in Computer Science under the supervision of [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). Previously, I received my master's and bachelor's degrees from [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), respectively. 
 
 🔬 My research interests are generally in data mining, machine learning, and foundation models or agents. Specifically, my research focuses lie in pragmatic AI systems that are **trustworthy and efficient**. Meanwhile, I am deeply committed to creating AI algorithms that are guided by domain-specific knowledge, with the goal of driving significant advancements in fields like healthcare, social science, and education.
  
