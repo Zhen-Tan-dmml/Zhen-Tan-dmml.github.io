@@ -51,7 +51,7 @@ Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan L
 *Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
 
 * *Agents Under Siege*: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks <br>
-Rana Muhammad Shahroz Khan, Zhen Tan, Sukwon Yun, Charles Flemming, Tianlong Chen. <br>
+Rana M. S. Khan, **Zhen Tan**, Sukwon Yun, Charles Flemming, Tianlong Chen. <br>
 *Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
 
 * BrainMAP: Learning Multiple Activation Pathways in Brain Network <br>
