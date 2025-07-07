@@ -39,7 +39,7 @@ TPAMI, TKDE, TKDD, TNNLS
 
 # Awards
 * **Graduate College Enrichment Fellowship** 2025-2026
-* **Google Cloud Academic Research Grants** Spring 2025
+* **Google Cloud Academic Research Grants** Fall 2025
 * **University Graduate Fellowship** Spring 2025
 * **OpenAI Researcher Access Award** 2025
 * **AAAI Student Travel Award** 2025
