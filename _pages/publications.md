@@ -32,7 +32,7 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 ## 2025
 * In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents <br>
 **Zhen Tan**, Jun Yan, I Hsu, Rujun Han, Zifeng Wang, Long T Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister. <br>
-*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
+*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025). Reported by [<span style="color:red">**Google Cloud**</span>](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview).*
 
 * Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach <br>
 **Zhen Tan**, Jie Peng, Song Wang, Lijie Hu, Tianlong Chen, Huan Liu. <br>
@@ -48,11 +48,11 @@ Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Da
 
 * SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention <br>
 Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu. <br>
-*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
+*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025), <span style="color:red">**Oral**</span>.*
 
 * *Agents Under Siege*: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks <br>
 Rana M. S. Khan, **Zhen Tan**, Sukwon Yun, Charles Flemming, Tianlong Chen. <br>
-*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025).*
+*Annual Meeting of the Association for Computational Linguistics (ACL Main 2025), <span style="color:red">**Oral**</span>.*
 
 * BrainMAP: Learning Multiple Activation Pathways in Brain Network <br>
 Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li. <br>
