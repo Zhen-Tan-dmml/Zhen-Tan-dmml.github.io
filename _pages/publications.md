@@ -62,6 +62,34 @@ Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Gu
 Dawei Li, **Zhen Tan**, Peijia Qian, Yifan Li, Kumar Chaudhary, Lijie Hu, Jiayi Shen. <br>
 *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).*
 
+* EQA-RM: A Generative Embodied Reward Model with Test-time Scaling <br>
+Yuhang Chen, **Zhen Tan**, Tianlong Chen. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
+* Learning from Diverse Reasoning Paths with Routing and Collaboration <br>
+Zhenyu Lei, **Zhen Tan**, Song Wang, Yaochen Zhu, Zihan Chen, Yushun Dong, Jundong Li. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
+* Bit-Flip Error Resilience in LLMs: A Comprehensive Analysis and Defense Framework <br>
+Yuhang Chen, **Zhen Tan**, AJAY KUMAR JAISWAL, Huaizhi Qu, Xinyu Zhao, Qi Lin, Yu Cheng, Andrew Kwong, Zhichao Cao, Tianlong Chen. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
+* AnyMAC: Cascading Flexible Multi-Agent Collaboration via Next-Agent Prediction <br>
+Song Wang, **Zhen Tan**, Zihan Chen, Shuang Zhou, Tianlong Chen, Jundong Li. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
+* Task-Aware Resolution Optimization for Visual Large Language Models <br>
+Weiqing Luo, **Zhen Tan**, Yifan Li, Xinyu Zhao, Kwonjoon Lee, Behzad Dariush, Tianlong Chen. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
+* Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation <br>
+Song Wang, Zihan Chen, Peng Wang, Zhepei Wei, **Zhen Tan**, Yu Meng, Cong Shen, Jundong Li. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
+* From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge <br>
+Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, **Zhen Tan**, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, huan liu
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+
 
 * Generative Risk Minimization for Out-of-Distribution Generalization on Graphs <br>
 Song Wang, **Zhen Tan**, Yaochen Zhu, Chuxu Zhang, Jundong Li. <br>
