@@ -87,7 +87,7 @@ Song Wang, Zihan Chen, Peng Wang, Zhepei Wei, **Zhen Tan**, Yu Meng, Cong Shen, 
 *Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
 
 * From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge <br>
-Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, **Zhen Tan**, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, Huan Liu
+Dawei Li, Bohan Jiang, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, **Zhen Tan**, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, Huan Liu. <br>
 *Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
 
 
