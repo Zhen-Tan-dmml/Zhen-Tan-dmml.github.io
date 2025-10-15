@@ -54,6 +54,10 @@ Huaizhi Qu, Inyoung Choi, **Zhen Tan**, Song Wang, Sukwon Yun, Qi Long, Faizan S
 Yifan Li, Yuhang Chen, Anh Dao, Lichi Li, Zhongyi Cai, **Zhen Tan**, Tianlong Chen, Yu Kong <br>
 *Conference on Neural Information Processing Systems (NeurIPS D&B 2025).*
 
+* GraphRCG: Self-Conditioned Graph Generation <br>
+Song Wang, **Zhen Tan**, Xinyu Zhao, Tianlong Chen, Huan Liu and Jundong Li <br>
+*Conference on Information and Knowledge Management (CIKM 2025).*
+
 * SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents <br>
 Dawei Li, **Zhen Tan**, Peijia Qian, Yifan Li, Kumar Chaudhary, Lijie Hu, Jiayi Shen. <br>
 *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).*
