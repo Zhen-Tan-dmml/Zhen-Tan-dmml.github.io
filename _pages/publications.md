@@ -42,6 +42,10 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 **Zhen Tan\***, Daize Dong\*, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
 *Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE@ICLR 2025).*
 
+* MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recom-mendation Systems <br>
+Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. 
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
+
 * Multi-Agent Debate for LLM Judges with Adaptive Stability Detection <br>
 Tianyu Hu, **Zhen Tan**, Song Wang, Huaizhi Qu, Tianlong Chen <br>
 *Conference on Neural Information Processing Systems (NeurIPS 2025).*
@@ -74,9 +78,6 @@ Rana M. S. Khan, **Zhen Tan**, Sukwon Yun, Charles Flemming, Tianlong Chen. <br>
 Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2025),  <span style="color:red">**Oral**</span>.*
 
-* SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents <br>
-Dawei Li, **Zhen Tan**, Peijia Qian, Yifan Li, Kumar Chaudhary, Lijie Hu, Jiayi Shen. <br>
-*Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).*
 
 * EQA-RM: A Generative Embodied Reward Model with Test-time Scaling <br>
 Yuhang Chen, **Zhen Tan**, Tianlong Chen. <br>
