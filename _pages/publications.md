@@ -42,9 +42,21 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 **Zhen Tan\***, Daize Dong\*, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
 *Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE@ICLR 2025).*
 
-* MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems <br>
-Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. <br>
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
+* Multi-Agent Debate for LLM Judges with Adaptive Stability Detection <br>
+Tianyu Hu, **Zhen Tan**, Song Wang, Huaizhi Qu, Tianlong Chen <br>
+*Conference on Neural Information Processing Systems (NeurIPS 2025).*
+
+* BetaConform: Efficient MAP Estimation of LLM Ensemble Judgment Performance with Prior Transfer <br>
+Huaizhi Qu, Inyoung Choi, **Zhen Tan**, Song Wang, Sukwon Yun, Qi Long, Faizan Siddiqui, Kwonjoon Lee, Tianlong Chen <br>
+*Conference on Neural Information Processing Systems (NeurIPS 2025).*
+
+* IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios <br>
+Yifan Li, Yuhang Chen, Anh Dao, Lichi Li, Zhongyi Cai, **Zhen Tan**, Tianlong Chen, Yu Kong <br>
+*Conference on Neural Information Processing Systems (NeurIPS D&B 2025).*
+
+* SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents <br>
+Dawei Li, **Zhen Tan**, Peijia Qian, Yifan Li, Kumar Chaudhary, Lijie Hu, Jiayi Shen. <br>
+*Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).*
 
 * SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention <br>
 Chengshuai Zhao, **Zhen Tan**, Chau-Wai Wong, Xinyan Zhao, Tianlong Chen, Huan Liu. <br>
