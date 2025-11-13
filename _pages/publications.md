@@ -28,6 +28,16 @@ Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Yin
 
 # Conference/Journal Papers (* indicates equal contributions)
 
+## 2026
+
+* Model Editing as a Double-Edged Sword: Steering Agent Behavior Toward Beneficence or Harm <br>
+Baixiang Huang, **Zhen Tan**, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu. <br>
+*Annual AAAI Conference on Artificial Intelligence (AAAI 2026),  <span style="color:red">**Oral**</span>.*
+
+* OR-R1: Automating Modeling and Solving of Operations Research Optimization Problem via Test-Time Reinforcement Learning <br>
+Zezhen Ding, **Zhen Tan**, Jiheng Zhang, Tianlong Chen. <br>
+*Annual AAAI Conference on Artificial Intelligence (AAAI 2026).*
+
 
 ## 2025
 * In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents <br>
