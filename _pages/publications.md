@@ -38,6 +38,10 @@ Baixiang Huang, **Zhen Tan**, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan
 Zezhen Ding, **Zhen Tan**, Jiheng Zhang, Tianlong Chen. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2026).*
 
+* Assessing the impact of conspiracy theories using large language models <br>
+Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu. <br>
+**International AAAI Conference on Web and Social Media (ICWSM 2026).*
+
 
 ## 2025
 * In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents <br>
