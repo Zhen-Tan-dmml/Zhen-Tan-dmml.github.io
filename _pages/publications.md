@@ -93,7 +93,7 @@ Song Wang\*, Zhenyu Lei\*, **Zhen Tan**, Jiaqi Ding, Xinyu Zhao, Yushun Dong, Gu
 
 * EQA-RM: A Generative Embodied Reward Model with Test-time Scaling <br>
 Yuhang Chen, **Zhen Tan**, Tianlong Chen. <br>
-*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025).*
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2025),  <span style="color:red">**Oral**</span>.*
 
 * Learning from Diverse Reasoning Paths with Routing and Collaboration <br>
 Zhenyu Lei, **Zhen Tan**, Song Wang, Yaochen Zhu, Zihan Chen, Yushun Dong, Jundong Li. <br>
