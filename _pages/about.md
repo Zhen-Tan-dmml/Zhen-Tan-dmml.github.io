@@ -28,7 +28,7 @@ redirect_from:
 * 2025.09:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to **CIKM** 2025! See you in Seoul (maybe)!
 * 2025.09:  <span style="color:#8B0000;">[Guest Lecture]</span> Gave invited lectures titled "**LLMs and Safety: Securing AI Systems and Harnessing AI for Human Safety**" at UNC Chapel Hill, NC State, and UNC Charlotte! Many thanks to the hosts!
 * 2025.09:  <span style="color:#8B0000;">[Invited Talk]</span> Gave invited Talk at **Intuit AI** on "**Securing and Governing Large Language Model Ecosystems: From Model Outputs to Multi-Agent Systems**"; presented safety, accountability, and governance frameworks for LLMs in enterprise settings as part of Intuit’s internal AI research series. 
-* 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025! See you in Suzhou (maybe)!
+* 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025, including two <span style="color:red">**Orals**</span>! See you in Suzhou (maybe)!
 * 2025.08:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **ICDM** 2025! See you in Washington, D.C. (definitely)!
 * 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **NeurIPS** 2025! See you in San Diego (definitely)!
 * 2025.07:  <span style="color:#00008B;">[Workshop]</span> 🎉 We are hosting [The 1st **Lock-LLM Workshop**: Prevent Unauthorized Knowledge Use from LLMs](https://lock-llm.github.io/) at NeurIPS 2025! See you in San Diego!
