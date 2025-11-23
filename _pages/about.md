@@ -19,15 +19,15 @@ redirect_from:
 📽️ <span style="color:red">I am on the job market for the 2025-2026 cycle. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at ztan36[AT]asu.edu.</span>
 
 # News and Updates
-* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper accepted to **ICWSM** 2026! See you in Los Angeles (maybe)!
-* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to **AAAI** 2026, including one <span style="color:red">**Oral**</span>! See you in Singapore (maybe)!
-* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to **IEEE BigData** 2025! See you in Macau (maybe)!
+* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **ICWSM** 2026! See you in Los Angeles (maybe)!
+* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted to **AAAI** 2026, including one <span style="color:red">**Oral**</span>! See you in Singapore (maybe)!
+* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted to **IEEE BigData** 2025! See you in Macau (maybe)!
 * 2025.11:  <span style="color:#006400;">[Tutorial]</span> Presented a tutorial on "Explainablity of LLMs" at **ICDM** 2025 in Washington, D.C.! Nice to Meet you all!
 * 2025.10:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **WSDM** 2026! See you in Boise (definitely)!
 * 2025.09:  <span style="color:#8B0000;">[Invited Talk]</span> Gave invited Talk at **ASU Osher Lifelong Learning Institute (OLLI)** on "**How Smart Is Today’s AI: An Introduction to Chatbots and Digital Assistants**"; delivered a public lecture to 140+ senior and lifelong learners across the U.S., introducing practical uses of LLMs for daily life and digital literacy. Many thanks to the hosts!
-* 2025.09:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to **CIKM** 2025! See you in Seoul (maybe)!
+* 2025.09:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted to **CIKM** 2025! See you in Seoul (maybe)!
 * 2025.09:  <span style="color:#8B0000;">[Guest Lecture]</span> Gave invited lectures titled "**LLMs and Safety: Securing AI Systems and Harnessing AI for Human Safety**" at UNC Chapel Hill, NC State, and UNC Charlotte! Many thanks to the hosts!
-* 2025.09:  <span style="color:#8B0000;">[Invited Talk]</span> Gave invited Talk at Intuit AI on "**Securing and Governing Large Language Model Ecosystems: From Model Outputs to Multi-Agent Systems**"; presented safety, accountability, and governance frameworks for LLMs in enterprise settings as part of Intuit’s internal AI research series. 
+* 2025.09:  <span style="color:#8B0000;">[Invited Talk]</span> Gave an invited Talk at Intuit AI on "**Securing and Governing Large Language Model Ecosystems: From Model Outputs to Multi-Agent Systems**"; presented safety, accountability, and governance frameworks for LLMs in enterprise settings as part of Intuit’s internal AI research series. 
 * 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025, including two <span style="color:red">**Orals**</span>! See you in Suzhou (maybe)!
 * 2025.08:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **ICDM** 2025! See you in Washington, D.C. (definitely)!
 * 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **NeurIPS** 2025! See you in San Diego (definitely)!
