@@ -32,11 +32,11 @@ redirect_from:
 * 2025.08:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **ICDM** 2025! See you in Washington, D.C. (definitely)!
 * 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **NeurIPS** 2025! See you in San Diego (definitely)!
 * 2025.07:  <span style="color:#00008B;">[Workshop]</span> 🎉 We are hosting [The 1st **Lock-LLM Workshop**: Prevent Unauthorized Knowledge Use from LLMs](https://lock-llm.github.io/) at NeurIPS 2025! See you in San Diego!
-* 2025.07:  <span style="color:#FF8C00;">[News, Patent]</span> 🎉 My project on “**LLM Agent Memory Management**" during internship at Google is reported by [Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview)! Received an invitation on filing a **Patent** from Google! 
+* 2025.07:  <span style="color:#FF8C00;">[News, Patent]</span> 🎉 My project on “**Memory Management for LLM Agents**" during internship at Google is reported by [Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-memory-bank-in-public-preview)! Received an invitation on filing a **Patent** from Google! 
 * 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **ACL** Main 2025 [including one finished at **Google Cloud Research**], with two accepted as <span style="color:red">**Orals**</span>! See you in Vienna (maybe)!
 * 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **KDD** 2025 Applied Data Science Track! See you in Toronto (maybe)!
+* 2025.05:  <span style="color:#8B4513;">[Award]</span> 🎉 My <span style="color:red">**PAKDD Best Award Paper**</span> on "**Interpreting Pretrained Language Models via Concept Bottlenecks**" is invited to be submitted to <span style="color:red">**IJCAI Best Paper Track**</span>!
 * 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **ICML** 2025! See you in Vancouver (maybe)!
-
 * 2025.01:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **ICLR** 2025 as Spotlight! See you in Singapore (maybe)!
 * 2024.12:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **AAAI** 2025 as <span style="color:red">**Orals**</span>! See you in Philadelphia (definitely)!
 
