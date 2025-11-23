@@ -19,8 +19,19 @@ redirect_from:
 📽️ I am also interested in assisting others on their path in the world of Data Mining, Machine Learning and academia. Feel free to contact me!
 
 # News and Updates
-* 2025.11: One paper accepted to ICWSM 2026! See you in Los Angeles (maybe)!
-* 2025.11: Two paper accepted to AAAI 2026, including one Oral! See you in Singapore (maybe)!
+* 2025.11:  [Paper] 🎉 One paper accepted to ICWSM 2026! See you in Los Angeles (maybe)!
+* 2025.11:  🎉 Two paper accepted to AAAI 2026, including one <span style="color:red">**Oral**</span>! See you in Singapore (maybe)!
+* 2025.11:  🎉 Finished a tutorial on "Explainablity of LLMs" at ICDM 2025 in Washington, D.C.! Nice to Meet you all!
+* 2025.10:  🎉 One Tutorial on "Explainablity of LLMs" is accepted to WSDM 2026! See you in Boise!
+* 2025.08:  🎉 Seven papers are accepted at EMNLP Main 2025! See you in Suzhou (maybe)!
+* 2025.08:  🎉 Three papers are accepted at NeurIPS 2025! See you in San Diego (definitely)!
+* 2025.07:  🎉 We are hosting [The 1st Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from LLMs](https://lock-llm.github.io/) at NeurIPS 2025! See you in San Diego!
+* 2025.05:  🎉 Three papers are accepted at ACL Main 2025, including 2 Oral! See you in Vienna (maybe)!
+* 2025.05:  🎉 One paper is accepted at KDD 2025 Dataset Track! See you in Toronto (maybe)!
+* 2025.05:  🎉 Two papers are accepted at ICML 2025! See you in Vancouver (maybe)!
+
+* 2025.01:  🎉 One papers is accepted at ICLR 2025 as Spotlight! See you (maybe) in Singapore!
+
 
 <!-- # Experience -->
 
