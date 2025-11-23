@@ -37,7 +37,7 @@ redirect_from:
 * 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **KDD** 2025 Applied Data Science Track! See you in Toronto (maybe)!
 * 2025.05:  <span style="color:#FF8C00;">[Award]</span> 🎉 My <span style="color:red">**PAKDD Best Award Paper**</span> on "**Interpreting Pretrained Language Models via Concept Bottlenecks**" is invited to be submitted to <span style="color:red">**IJCAI Best Paper Track**</span>! See you in Montreal (maybe)!
 * 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **ICML** 2025! See you in Vancouver (maybe)!
-* 2025.03:  <span style="color:#FF8C00;">[Award]</span> 🎉 One paper is accepted at **AMIA** Informatics Summit 2025 with <span style="color:red">Marco Ramoni Distinguished Paper Award</span>. 
+* 2025.03:  <span style="color:#FF8C00;">[Award]</span> 🎉 One paper is accepted at **AMIA** Informatics Summit 2025 with <span style="color:red">**Marco Ramoni Distinguished Paper Award**</span>. 
 * 2025.01:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **ICLR** 2025 as Spotlight! See you in Singapore (maybe)!
 * 2024.12:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **AAAI** 2025 as <span style="color:red">**Orals**</span>! See you in Philadelphia (definitely)!
 
