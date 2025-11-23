@@ -23,7 +23,7 @@ redirect_from:
 * 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to **AAAI** 2026, including one <span style="color:red">**Oral**</span>! See you in Singapore (maybe)!
 * 2025.11:  <span style="color:#006400;">[Tutorial]</span> 🎉 Finished a tutorial on "Explainablity of LLMs" at **ICDM** 2025 in Washington, D.C.! Nice to Meet you all!
 * 2025.10:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **WSDM** 2026! See you in Boise (definitely)!
-* 2025.09:  <span style="color:#4B0082;">[Invited Talk]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025! See you in Suzhou (maybe)!
+* 2025.09:  <span style="color:#8B0000;">[Invited Talk]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025! See you in Suzhou (maybe)!
 * 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025! See you in Suzhou (maybe)!
 * 2025.08:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **ICDM** 2025! See you in Washington, D.C. (definitely)!
 * 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **NeurIPS** 2025! See you in San Diego (definitely)!
