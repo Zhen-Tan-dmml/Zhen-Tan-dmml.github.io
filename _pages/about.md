@@ -15,13 +15,12 @@ redirect_from:
 
 🔬 My research interests are generally in data mining, machine learning, and foundation models or agents. Specifically, my research focuses lie in pragmatic AI systems that are **trustworthy and efficient**. Meanwhile, I am deeply committed to creating AI algorithms that are guided by domain-specific knowledge, with the goal of driving significant advancements in fields like healthcare, social science, and education.
  
-📚 I am currently a research intern at [Google Cloud AI](https://research.google/teams/cloud-ai/) in Sunnyvale! I am also holding a visiting researcher position at [Harvard Medical School](https://hms.harvard.edu/).
 
 📽️ I am also interested in assisting others on their path in the world of Data Mining, Machine Learning and academia. Feel free to contact me!
 
-<!-- # News
-* Item 1
-* Item 2 -->
+# News and Updates
+* 2025.11: One paper accepted to ICWSM 2026! See you in Los Angeles (maybe)!
+* 2025.11: Two paper accepted to AAAI 2026, including one Oral! See you in Singapore (maybe)!
 
 <!-- # Experience -->
 
