@@ -19,21 +19,21 @@ redirect_from:
 📽️ <span style="color:red">I am on the job market for the 2025-2026 cycle. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at ztan36[AT]asu.edu.</span>
 
 # News and Updates
-* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper accepted to ICWSM 2026! See you in Los Angeles (maybe)!
-* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to AAAI 2026, including one <span style="color:red">**Oral**</span>! See you in Singapore (maybe)!
-* 2025.11:  <span style="color:#006400;">[Tutorial]</span> 🎉 Finished a tutorial on "Explainablity of LLMs" at ICDM 2025 in Washington, D.C.! Nice to Meet you all!
-* 2025.10:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to WSDM 2026! See you in Boise (definitely)!
-* 2025.09:  <span style="color:#4B0082;">[Invited Talk]</span> 🎉 Seven papers are accepted at EMNLP Main 2025! See you in Suzhou (maybe)!
-* 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Seven papers are accepted at EMNLP Main 2025! See you in Suzhou (maybe)!
-* 2025.08:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to ICDM 2025! See you in Washington, D.C. (definitely)!
-* 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at NeurIPS 2025! See you in San Diego (definitely)!
-* 2025.07:  <span style="color:#00008B;">[Workshop]</span> 🎉 We are hosting [The 1st Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from LLMs](https://lock-llm.github.io/) at NeurIPS 2025! See you in San Diego!
-* 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at ACL Main 2025 [including one finished at **Google Cloud Research**], with two accepted as <span style="color:red">**Orals**</span>! See you in Vienna (maybe)!
-* 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at KDD 2025 Applied Data Science Track! See you in Toronto (maybe)!
-* 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at ICML 2025! See you in Vancouver (maybe)!
+* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper accepted to **ICWSM** 2026! See you in Los Angeles (maybe)!
+* 2025.11:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers accepted to **AAAI** 2026, including one <span style="color:red">**Oral**</span>! See you in Singapore (maybe)!
+* 2025.11:  <span style="color:#006400;">[Tutorial]</span> 🎉 Finished a tutorial on "Explainablity of LLMs" at **ICDM** 2025 in Washington, D.C.! Nice to Meet you all!
+* 2025.10:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **WSDM** 2026! See you in Boise (definitely)!
+* 2025.09:  <span style="color:#4B0082;">[Invited Talk]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025! See you in Suzhou (maybe)!
+* 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Seven papers are accepted at **EMNLP** Main 2025! See you in Suzhou (maybe)!
+* 2025.08:  <span style="color:#006400;">[Tutorial]</span> 🎉 One Tutorial on "Explainablity of LLMs" is accepted to **ICDM** 2025! See you in Washington, D.C. (definitely)!
+* 2025.08:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **NeurIPS** 2025! See you in San Diego (definitely)!
+* 2025.07:  <span style="color:#00008B;">[Workshop]</span> 🎉 We are hosting [The 1st **Lock-LLM Workshop**: Prevent Unauthorized Knowledge Use from LLMs](https://lock-llm.github.io/) at NeurIPS 2025! See you in San Diego!
+* 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Three papers are accepted at **ACL** Main 2025 [including one finished at **Google Cloud Research**], with two accepted as <span style="color:red">**Orals**</span>! See you in Vienna (maybe)!
+* 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **KDD** 2025 Applied Data Science Track! See you in Toronto (maybe)!
+* 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **ICML** 2025! See you in Vancouver (maybe)!
 
-* 2025.01:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at ICLR 2025 as Spotlight! See you in Singapore (maybe)!
-* 2024.12:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at AAAI 2025 as <span style="color:red">**Orals**</span>! See you in Philadelphia (definitely)!
+* 2025.01:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **ICLR** 2025 as Spotlight! See you in Singapore (maybe)!
+* 2024.12:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **AAAI** 2025 as <span style="color:red">**Orals**</span>! See you in Philadelphia (definitely)!
 
 
 <!-- # Experience -->
