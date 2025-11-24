@@ -38,8 +38,8 @@ B.S., Electrical Engineering <br>
 
 **Conference Program Committees / Reviewer:**  
 - *Data Mining & Information Retrieval:* KDD, WWW, WSDM, SIGIR, etc. (2022–2025)  
-- *Natural Language Processing:* ACL, EMNLP, NAACL, EACL, etc. (2023–2025)  
 - *Machine Learning & AI:* ICLR, ICML, NeurIPS, AAAI, IJCAI, AISTATS etc. (2023–2025)  
+- *Natural Language Processing:* ACL, EMNLP, NAACL, EACL, etc. (2023–2025)  
 - *Computer Vision:* CVPR, ICCV, ECCV, etc. (2024–2025)
 
 **Workshop & Tutorial Organization:**
