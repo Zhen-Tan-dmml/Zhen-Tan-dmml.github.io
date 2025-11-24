@@ -38,7 +38,7 @@ Zezhen Ding, **Zhen Tan**, Jiheng Zhang, Tianlong Chen. <br>
 
 * Assessing the impact of conspiracy theories using large language models <br>
 Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu. <br>
-**International AAAI Conference on Web and Social Media (ICWSM 2026).*
+*International AAAI Conference on Web and Social Media (ICWSM 2026).*
 
 
 ## 2025
