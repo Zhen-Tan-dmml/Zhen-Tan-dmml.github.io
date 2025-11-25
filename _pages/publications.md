@@ -17,8 +17,7 @@ Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng,
 * Visual Large Language Models for Generalized and Specialized Applications <br>
 Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, Dong Liu, Huan Liu, Yu Kong. <br>
 
-* Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education <br>
-Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Ying-Chih Chen, Huan Liu. <br>
+
 
 
 
@@ -134,11 +133,17 @@ Zihan Chen\*, Song Wang\*, **Zhen Tan**, Jundong Li, Cong Shen. <br>
 Lijie Hu, Chenyang Ren, Zhengyu Hu, Hongbin Lin, Cheng-Long Wang, **Zhen Tan**, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
 *International Conference on Machine Learning (ICML 2025).*
 
-
-
 * CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models <br>
 Song Wang, Peng Wang, Tong Zhou, Yushun Dong, **Zhen Tan**, Jundong Li. <br>
 *International Conference on Learning Representations (ICLR 2025),  <span style="color:red">**Spotlight**</span>.*
+
+* Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education <br>
+Chengshuai Zhao, Garima Agrawal, Tharindu Kumarage, **Zhen Tan**, Yuli Deng, Ying-Chih Chen, Huan Liu. <br>
+*IEEE International Conference on Big Data (IEEE BigData 2025).*
+
+* Can LLMs Improve Multimodal Fact-Checking by Asking Relevant Questions? <br>
+Alimohammad Beigi, Bohan Jiang, Dawei Li, **Zhen Tan**, Pouya Shaeri, Tharindu Kumarage, Amrita Bhattacharjee, Huan Liu. <br>
+*IEEE International Conference on Big Data (IEEE BigData 2025).*
 
 * Automating Content Analysis with Multi-LLM Agents: Impacts of Agent Attributes and Human–AI Collaboration <br>
 Xinyan Zhao, Chengshuai Zhao, Chau-Wai Wong, **Zhen Tan**, Mengqi Zhan, Tianlong Chen. <br>
