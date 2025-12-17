@@ -50,31 +50,31 @@ Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H.
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2025),  <span style="color:red">**Oral**</span>.*
 
 * DLO: Dynamic Layer Operation for Efficient Vertical Scaling of LLMs <br>
-**Zhen Tan\***, Daize Dong\*, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.
+**Zhen Tan\***, Daize Dong\*, Xinyu Zhao, Jie Peng, Yu Cheng, Tianlong Chen.  <br>
 *Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE@ICLR 2025).*
 
 * MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recom-mendation Systems <br>
-Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. 
+Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar.  <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
 
 * CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <br>
-Lo Pang-Yun Ting, **Zhen Tan**, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu. 
+Lo Pang-Yun Ting, **Zhen Tan**, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu.  <br>
 *Learning from Time Series for Health Workshop @ Conference on Neural Information Processing Systems (TS4H@NeurIPS 2025),  <span style="color:red">**Best Paper Award**</span>.*
 
 * Multi-Agent Debate for LLM Judges with Adaptive Stability Detection <br>
-Tianyu Hu, **Zhen Tan**, Song Wang, Huaizhi Qu, Tianlong Chen <br>
+Tianyu Hu, **Zhen Tan**, Song Wang, Huaizhi Qu, Tianlong Chen. <br>
 *Conference on Neural Information Processing Systems (NeurIPS 2025).*
 
 * BetaConform: Efficient MAP Estimation of LLM Ensemble Judgment Performance with Prior Transfer <br>
-Huaizhi Qu, Inyoung Choi, **Zhen Tan**, Song Wang, Sukwon Yun, Qi Long, Faizan Siddiqui, Kwonjoon Lee, Tianlong Chen <br>
+Huaizhi Qu, Inyoung Choi, **Zhen Tan**, Song Wang, Sukwon Yun, Qi Long, Faizan Siddiqui, Kwonjoon Lee, Tianlong Chen. <br>
 *Conference on Neural Information Processing Systems (NeurIPS 2025).*
 
 * IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios <br>
-Yifan Li, Yuhang Chen, Anh Dao, Lichi Li, Zhongyi Cai, **Zhen Tan**, Tianlong Chen, Yu Kong <br>
+Yifan Li, Yuhang Chen, Anh Dao, Lichi Li, Zhongyi Cai, **Zhen Tan**, Tianlong Chen, Yu Kong. <br>
 *Conference on Neural Information Processing Systems (NeurIPS D&B 2025).*
 
 * GraphRCG: Self-Conditioned Graph Generation <br>
-Song Wang, **Zhen Tan**, Xinyu Zhao, Tianlong Chen, Huan Liu and Jundong Li <br>
+Song Wang, **Zhen Tan**, Xinyu Zhao, Tianlong Chen, Huan Liu and Jundong Li. <br>
 *Conference on Information and Knowledge Management (CIKM 2025).*
 
 * SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents <br>
