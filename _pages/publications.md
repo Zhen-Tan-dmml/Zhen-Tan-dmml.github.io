@@ -57,6 +57,10 @@ Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H.
 Lichi Li\*, Zainul Abi Din\*, **Zhen Tan\***, Sam London, Tianlong Chen, Ajay Daptardar. 
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
 
+* CAND: Cross-Domain Ambiguity Inference for Early Detecting Nuanced Illness Deterioration <br>
+Lo Pang-Yun Ting, **Zhen Tan**, Hong-Pei Chen, Cheng-Te Li, Po-Lin Chen, Kun-Ta Chuang, Huan Liu. 
+*Learning from Time Series for Health Workshop @ Conference on Neural Information Processing Systems (TS4H@NeurIPS 2025),  <span style="color:red">**Best Paper Award**</span>.*
+
 * Multi-Agent Debate for LLM Judges with Adaptive Stability Detection <br>
 Tianyu Hu, **Zhen Tan**, Song Wang, Huaizhi Qu, Tianlong Chen <br>
 *Conference on Neural Information Processing Systems (NeurIPS 2025).*
