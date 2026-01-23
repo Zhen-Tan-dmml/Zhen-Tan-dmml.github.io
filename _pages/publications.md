@@ -17,8 +17,6 @@ Tutorial @ ICDM 2025
 * Are We Merely Justifying Results ex Post Facto? Quantifying Explanatory Inversion in Post-Hoc Model Explanations <br>
 **Zhen Tan**, Song Wang, Yifan Li, Yu Kong, Jundong Li, Tianlong Chen, Huan Liu. <br>
 
-* Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
-Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 
 
 * Visual Large Language Models for Generalized and Specialized Applications <br>
@@ -33,6 +31,11 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 # Conference/Journal Papers (* indicates equal contributions)
 
 ## 2026
+
+* Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
+Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
+*Conference on Parsimony and Learning (CPAL 2026).*
+
 
 * Model Editing as a Double-Edged Sword: Steering Agent Behavior Toward Beneficence or Harm <br>
 Baixiang Huang, **Zhen Tan**, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu. <br>
