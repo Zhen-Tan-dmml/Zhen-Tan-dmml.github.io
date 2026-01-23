@@ -55,6 +55,7 @@ B.S., Electrical Engineering <br>
 # Honors & Awards
 
 **Research Awards and Scholarships**
+- CPAL Rising Stars Award *(2026)*
 - IJCAI Best Paper Track *(2025)*
 - Marco Ramoni Distinguished Paper Award *(2025)*
 - PAKDD Best Paper Award *(2024)*
