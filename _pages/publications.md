@@ -32,10 +32,33 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 
 ## 2026
 
+* Probing to Refine: Reinforcement Distillation of LLM Reasoners via Explanatory Inversion. <br>
+**Zhen Tan**, Chengshuai Zhao, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. <br>
+*International Conference on Learning Representations (ICLR 2026).*
+
 * Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
 
+* CellDuality: Unlocking Biological Reasoning in LLMs with Self-Supervised RLVR. <br>
+Yuhang Chen, **Zhen Tan**, Ruichen Zhang, Mufan Qiu, Tianlong Chen. <br>
+*International Conference on Learning Representations (ICLR 2026).*
+
+* CAR-LoRA: Training Compression-Aware and Robust LoRA Adapters for Evolving LLMs. <br>
+Rana Shahroz, Zhen Tan, Ruichen Zhang, Hua Wei, Tianlong Chen, Charles Fleming.
+*International Conference on Learning Representations (ICLR 2026).*
+
+* The Quest for Efficient Reasoning: A Data-Centric Benchmark to CoT Distillation. <br>
+Ruichen Zhang\*, Rana Shahroz\*, **Zhen Tan**, Dawei Li, Song Wang, Tianlong Chen.
+*International Conference on Learning Representations (ICLR 2026).*
+
+* FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of Chain-of-Thought Reasoning. <br>
+Xu Shen, Song Wang, **Zhen Tan**, Laura Yao, Xinyu Zhao, Kaidi Xu, Xin Wang, Tianlong Chen. <br>
+*International Conference on Learning Representations (ICLR 2026).*
+
+* Dissecting Representation Misalignment in Contrastive Learning via Influence Function. <br>
+Lijie Hu, Chenyang Ren, Huanyi Xie, Khouloud Saadi, Shu Yang, **Zhen Tan**, Jingfeng Zhang, Di Wang. <br>
+*International Conference on Learning Representations (ICLR 2026).*
 
 * Model Editing as a Double-Edged Sword: Steering Agent Behavior Toward Beneficence or Harm <br>
 Baixiang Huang, **Zhen Tan**, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu. <br>
