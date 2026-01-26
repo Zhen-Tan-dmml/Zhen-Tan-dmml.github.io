@@ -45,7 +45,7 @@ Yuhang Chen, **Zhen Tan**, Ruichen Zhang, Mufan Qiu, Tianlong Chen. <br>
 *International Conference on Learning Representations (ICLR 2026).*
 
 * CAR-LoRA: Training Compression-Aware and Robust LoRA Adapters for Evolving LLMs. <br>
-Rana Shahroz, Zhen Tan, Ruichen Zhang, Hua Wei, Tianlong Chen, Charles Fleming.
+Rana Shahroz, **Zhen Tan**, Ruichen Zhang, Hua Wei, Tianlong Chen, Charles Fleming.
 *International Conference on Learning Representations (ICLR 2026).*
 
 * The Quest for Efficient Reasoning: A Data-Centric Benchmark to CoT Distillation. <br>
