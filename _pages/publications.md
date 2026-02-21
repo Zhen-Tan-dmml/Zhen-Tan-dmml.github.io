@@ -60,6 +60,10 @@ Xu Shen, Song Wang, **Zhen Tan**, Laura Yao, Xinyu Zhao, Kaidi Xu, Xin Wang, Tia
 Lijie Hu, Chenyang Ren, Huanyi Xie, Khouloud Saadi, Shu Yang, **Zhen Tan**, Jingfeng Zhang, Di Wang. <br>
 *International Conference on Learning Representations (ICLR 2026).*
 
+* Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models. <br>
+Gengwei Zhang, Jie Peng, **Zhen Tan**, Mufan Qiu, Hossein Nourkhiz Mahjoub, Vaishnav Tadiparthi, Kwonjoon Lee, Yanyong Zhang, Tianlong Chen. <br>
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).*
+
 * Model Editing as a Double-Edged Sword: Steering Agent Behavior Toward Beneficence or Harm <br>
 Baixiang Huang, **Zhen Tan**, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2026),  <span style="color:red">**Oral**</span>.*
