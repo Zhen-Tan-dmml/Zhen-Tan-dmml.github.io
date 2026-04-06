@@ -48,13 +48,14 @@ Chengshuai Zhao, **Zhen Tan**, Pingchuan Ma, Dawei Li, Bohan Jiang, Yancheng Wan
 Dawei Li, Yuguang Yao, **Zhen Tan**, Huan Liu, Ruocheng Guo. <br>
 *Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
 
+* The Adaptive Interrogator: Detecting Trojan LLMs in Multi-Agent Systems via Evolved Conversational Strategies. <br>
+Rana Muhammad Shahroz Khan\*, Ruichen Zhang\*, **Zhen Tan**, Charles Fleming, Tianlong Chen.
+*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
+
 * Metacognitive Self-Correction for Multi-Agent System via Prototype-Guided Next-Execution Reconstruction. <br>
 Xu Shen, Qi Zhang, Song Wang, **Zhen Tan**, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen. <br>
 *Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
 
-* The Adaptive Interrogator: Detecting Trojan LLMs in Multi-Agent Systems via Evolved Conversational Strategies. <br>
-Rana Muhammad Shahroz Khan\*, Ruichen Zhang\*, **Zhen Tan**, Charles Fleming, Tianlong Chen.
-*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
 
 * CellDuality: Unlocking Biological Reasoning in LLMs with Self-Supervised RLVR. <br>
 Yuhang Chen, **Zhen Tan**, Ruichen Zhang, Mufan Qiu, Tianlong Chen. <br>
