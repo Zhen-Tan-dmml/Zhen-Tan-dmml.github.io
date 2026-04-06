@@ -40,6 +40,22 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
 
+* Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens. <br>
+Chengshuai Zhao, **Zhen Tan**, Pingchuan Ma, Dawei Li, Bohan Jiang, Yancheng Wang, Yingzhen Yang, Huan Liu. <br>
+*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026). Reported by [<span style="color:red">**VentureBeat Features**</span>](https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone).*
+
+* ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents. <br>
+Dawei Li, Yuguang Yao, **Zhen Tan**, Huan Liu, Ruocheng Guo. <br>
+*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
+
+* Metacognitive Self-Correction for Multi-Agent System via Prototype-Guided Next-Execution Reconstruction. <br>
+Xu Shen, Qi Zhang, Song Wang, **Zhen Tan**, Xinyu Zhao, Laura Yao, Vaishnav Tadiparthi, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Kwonjoon Lee, Tianlong Chen. <br>
+*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
+
+* The Adaptive Interrogator: Detecting Trojan LLMs in Multi-Agent Systems via Evolved Conversational Strategies. <br>
+Rana Muhammad Shahroz Khan\*, Ruichen Zhang\*, **Zhen Tan**, Charles Fleming, Tianlong Chen.
+*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026).*
+
 * CellDuality: Unlocking Biological Reasoning in LLMs with Self-Supervised RLVR. <br>
 Yuhang Chen, **Zhen Tan**, Ruichen Zhang, Mufan Qiu, Tianlong Chen. <br>
 *International Conference on Learning Representations (ICLR 2026).*
