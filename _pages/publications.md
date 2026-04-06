@@ -42,7 +42,7 @@ Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng,
 
 * Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens. <br>
 Chengshuai Zhao, **Zhen Tan**, Pingchuan Ma, Dawei Li, Bohan Jiang, Yancheng Wang, Yingzhen Yang, Huan Liu. <br>
-*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026). Reported by [<span style="color:red">**VentureBeat Features**</span>](https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone).*
+*Annual Meeting of the Association for Computational Linguistics (ACL Findings 2026). Reported by [<span style="color:red">**VentureBeat**</span>](https://venturebeat.com/ai/llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone).*
 
 * ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents. <br>
 Dawei Li, Yuguang Yao, **Zhen Tan**, Huan Liu, Ruocheng Guo. <br>
