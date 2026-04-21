@@ -89,9 +89,13 @@ Baixiang Huang, **Zhen Tan**, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan
 Zezhen Ding, **Zhen Tan**, Jiheng Zhang, Tianlong Chen. <br>
 *Annual AAAI Conference on Artificial Intelligence (AAAI 2026).*
 
-* Assessing the impact of conspiracy theories using large language models <br>
+* Assessing the impact of conspiracy theories using large language models. <br>
 Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu. <br>
 *International AAAI Conference on Web and Social Media (ICWSM 2026).*
+
+* A Survey of Scaling in Large Language Model Reasoning. <br>
+Zihan Chen, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li <br>
+*ACM SIGKDD Explorations, 2026.*
 
 
 ## 2025
