@@ -21,7 +21,7 @@ redirect_from:
 # News and Updates
 
 * 2026.04:  <span style="color:#8B4513;">[Paper]</span> 🎉 Four papers are accepted to **ACL** findings 2026! See you in San Diego (Maybe)!
-* 2026.04:  <span style="color:#8B0000;">[Invited Talk]</span> Gave a guest lecture at **Emory University** on "**Explaining the Unexplainable LLMs". Many thanks to Dr. Kai Shu for the host!
+* 2026.04:  <span style="color:#8B0000;">[Invited Talk]</span> Gave a guest lecture at **Emory University** on "**Explaining the Unexplainable LLMs**". Many thanks to Dr. Kai Shu for the host!
 * 2026.02:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **CVPR** 2026! See you in Denver (Maybe)!
 * 2026.01:  <span style="color:#8B4513;">[Paper]</span> 🎉 Six papers are accepted to **ICLR** 2026! See you in Rio de Janeiro, Brazil (Maybe)!
 * 2026.01:  <span style="color:#FF8C00;">[Award]</span> 🎉 Super excited to be awarded with the <span style="color:red">**CPAL Rising Stars Award 2026**</span> on my works on "**Parsimony as the Bridge: From Sparse Mechanisms to Scientific Discovery**"! See you in Tübingen, Germany!
