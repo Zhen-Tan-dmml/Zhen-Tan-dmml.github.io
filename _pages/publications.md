@@ -94,7 +94,7 @@ Bohan Jiang, Dawei Li, **Zhen Tan**, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H.
 *International AAAI Conference on Web and Social Media (ICWSM 2026).*
 
 * A Survey of Scaling in Large Language Model Reasoning. <br>
-Zihan Chen, Song Wang, Zhen Tan, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li <br>
+Zihan Chen, Song Wang, **Zhen Tan**, Xingbo Fu, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li <br>
 *ACM SIGKDD Explorations, 2026.*
 
 
