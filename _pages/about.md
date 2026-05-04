@@ -19,6 +19,7 @@ redirect_from:
 📽️ <span style="color:red">I am on the job market for the 2025-2026 cycle. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at ztan36[AT]asu.edu.</span>
 
 # News and Updates
+* 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted to **ICML** 2026! See you in Seoul, South Korea (Maybe)!
 * 2026.04:  <span style="color:#8B4513;">[Paper]</span> 🎉 One survey paper on "**Scaling in LLM Reasoning**" is accepted to **SIGKDD Explorations** 2026!
 * 2026.04:  <span style="color:#8B4513;">[Paper]</span> 🎉 Four papers are accepted to **ACL** findings 2026! See you in San Diego (Maybe)!
 * 2026.04:  <span style="color:#8B0000;">[Invited Talk]</span> Gave a guest lecture at **Emory University** on "**Explaining the Unexplainable LLMs**". Many thanks to Dr. Kai Shu for the host!
