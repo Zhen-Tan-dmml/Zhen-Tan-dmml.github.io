@@ -36,9 +36,17 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 **Zhen Tan**, Chengshuai Zhao, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. <br>
 *International Conference on Learning Representations (ICLR 2026).*
 
-* Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs <br>
+* Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs. <br>
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
+
+* TMS: Trajectory-Mixed Supervision for Reward-Free, On-Policy SFT. <br>
+Rana Shahroz, Zijie Liu, **Zhen Tan**, Charles Fleming, Tianlong Chen. <br>
+*International Conference on Machine Learning (ICML 2026).*
+
+* Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review. <br>
+Xinyu Zhao\*, Rana Shahroz\*, Zhen Xu, **Zhen Tan**, Tianlong Chen. <br>
+*International Conference on Machine Learning (ICML 2026).*
 
 * Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens. <br>
 Chengshuai Zhao, **Zhen Tan**, Pingchuan Ma, Dawei Li, Bohan Jiang, Yancheng Wang, Yingzhen Yang, Huan Liu. <br>
