@@ -40,6 +40,10 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
 
+* On the Role of Anticausal Direction in LLM-based Data Synthesis. <br>
+Bohan Jiang, Pingchuan Ma, **Zhen Tan**, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu. <br>
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).*
+
 * TMS: Trajectory-Mixed Supervision for Reward-Free, On-Policy SFT. <br>
 Rana Shahroz, Zijie Liu, **Zhen Tan**, Charles Fleming, Tianlong Chen. <br>
 *International Conference on Machine Learning (ICML 2026).*
