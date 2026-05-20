@@ -20,7 +20,7 @@ redirect_from:
 📢 <span style="color:red">I will join the School of Computing at Stevens Institute of Technology as a tenure-track Assistant Professor. I am recruiting multiple Ph.D. students starting in Fall 2026 and Spring 2027, as well as research interns, externs, and visiting students. Interested candidates are strongly encouraged to contact me at zhentan6129[AT]gmail.com with their CV/resume and transcripts.</span>
 
 # News and Updates
-* 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **KDD** 2026! See you in Jeju, South Korea (Definitely)!
+* 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **KDD** 2026 research track! See you in Jeju, South Korea (Definitely)!
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted to **ICML** 2026! See you in Seoul, South Korea (Maybe)!
 * 2026.04:  <span style="color:#8B4513;">[Paper]</span> 🎉 One survey paper on "**Scaling in LLM Reasoning**" is accepted to **SIGKDD Explorations** 2026!
 * 2026.04:  <span style="color:#8B4513;">[Paper]</span> 🎉 Four papers are accepted to **ACL** findings 2026! See you in San Diego (Maybe)!
