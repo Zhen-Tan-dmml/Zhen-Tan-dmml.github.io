@@ -15,7 +15,7 @@ redirect_from:
 
 🔬 My research spans human-centered AI, explainable and interpretable machine learning, foundation models, and trustworthy AI systems. I study the foundations of explainability, including its intrinsic limits, faithfulness, and the tension between simple explanations and complex model behaviors. Building on these foundations, I develop actionable explainability methods, where explanations actively guide model reasoning, agent decision-making, alignment, safety, and human–AI interaction. A core part of my work emphasizes interdisciplinary impact, creating explainable and reliable AI algorithms for applications in healthcare, computational bioinformatics, social science, and robotics.
 
-*Looking forward, I am interested in moving beyond post-hoc explanations toward principle-informed (e.g., physics/biology-informed) AI, where model behavior is constrained by domain knowledge and structured priors, enabling more interpretable, controllable, and generalizable foundation models.*
+*Looking forward, I am interested in moving beyond post-hoc explanations toward principle-informed (e.g., physics/biology-informed) AI model/agent, where model behavior is constrained by domain knowledge and structured priors, enabling more interpretable, controllable, and generalizable foundation models.*
 
 📢 <span style="color:red">I will join the School of Computing at Stevens Institute of Technology as a tenure-track Assistant Professor. I am recruiting multiple Ph.D. students starting in Fall 2026 and Spring 2027, as well as research interns, externs, and visiting students. Interested candidates are strongly encouraged to contact me at zhentan6129[AT]gmail.com with their CV/resume and transcripts.</span>
 
