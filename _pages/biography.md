@@ -37,10 +37,10 @@ B.S., Electrical Engineering <br>
 **Area Chair:** IEEE DSAA 2025
 
 **Conference Program Committees / Reviewer:**  
-- *Data Mining & Information Retrieval:* KDD, WWW, WSDM, SIGIR, etc. (2022–2025)  
-- *Machine Learning & AI:* ICLR, ICML, NeurIPS, AAAI, IJCAI, AISTATS etc. (2023–2025)  
-- *Natural Language Processing:* ACL, EMNLP, NAACL, EACL, etc. (2023–2025)  
-- *Computer Vision:* CVPR, ICCV, ECCV, etc. (2024–2025)
+- *Data Mining & Information Retrieval:* KDD, WWW, WSDM, SIGIR, etc. (2022–present)  
+- *Machine Learning & AI:* ICLR, ICML, NeurIPS, AAAI, IJCAI, AISTATS etc. (2023–present)  
+- *Natural Language Processing:* ACL, EMNLP, NAACL, EACL, etc. (2023–present)  
+- *Computer Vision:* CVPR, ICCV, ECCV, etc. (2024–present)
 
 **Workshop & Tutorial Organization:**
 - **Workshop:** *Lock-LLM: Prevent Unauthorized Knowledge Use from Large Language Models* — Deep dive into un-distillable, un-finetunable, un-compressible, un-editable, and un-usable LLMs.  
