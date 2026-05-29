@@ -22,7 +22,7 @@ redirect_from:
 </div>
 
 # News and Updates
-* * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **USENIX Security Symposium** 2026! It's my first paper in security conference!
+* 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **USENIX Security Symposium** 2026! It's my first paper in security conference!
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **KDD** 2026 research track! See you in Jeju, South Korea!
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted to **ICML** 2026! See you in Seoul, South Korea (Maybe)!
 * 2026.04:  <span style="color:#8B4513;">[Paper]</span> 🎉 One survey paper on "**Scaling in LLM Reasoning**" is accepted to **SIGKDD Explorations** 2026!
