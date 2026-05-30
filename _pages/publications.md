@@ -40,6 +40,10 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
 
+* Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening. <br>
+Mohan Zhang, Yuqi Jia, **Zhen Tan**, Steven Jiang, Neil Zhenqiang Gong, Tianlong Chen, Dawn Song. <br>
+*USENIX Security Symposium 2026.*
+
 * On the Role of Anticausal Direction in LLM-based Data Synthesis. <br>
 Bohan Jiang, Pingchuan Ma, **Zhen Tan**, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu. <br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).*
