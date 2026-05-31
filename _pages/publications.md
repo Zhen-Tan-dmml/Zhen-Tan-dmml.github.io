@@ -36,6 +36,10 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 **Zhen Tan**, Chengshuai Zhao, Song Wang, Jundong Li, Tianlong Chen, Huan Liu. <br>
 *International Conference on Learning Representations (ICLR 2026).*
 
+* FairGen: Preference-Aligned Diffusion for Demographically Equitable Medical Image Synthesis. <br>
+Zhimin Li1\*, Ruichen Zhang\*, **Zhen Tan\***, Howard J Aizenstein4, Jingtong Hu1, Tianlong Chen. <br>
+*Nature Partner Journals, Digital Medicine (npj Digital Medicine).*
+
 * Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs. <br>
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
