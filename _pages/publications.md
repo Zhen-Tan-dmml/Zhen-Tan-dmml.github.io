@@ -37,7 +37,7 @@ Yifan Li, Zhixin Lai, Wentao Bao, **Zhen Tan**, Anh Dao, Kewei Sui, Jiayi Shen, 
 *International Conference on Learning Representations (ICLR 2026).*
 
 * FairGen: Preference-Aligned Diffusion for Demographically Equitable Medical Image Synthesis. <br>
-Zhimin Li1\*, Ruichen Zhang\*, **Zhen Tan\***, Howard J Aizenstein4, Jingtong Hu1, Tianlong Chen. <br>
+Zhimin Li1\*, Ruichen Zhang\*, **Zhen Tan\***, Howard J Aizenstein, Jingtong Hu, Tianlong Chen. <br>
 *Nature Partner Journals, Digital Medicine (npj Digital Medicine).*
 
 * Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs. <br>
