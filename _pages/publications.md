@@ -44,6 +44,11 @@ Zhimin Li1\*, Ruichen Zhang\*, **Zhen Tan\***, Howard J Aizenstein, Jingtong Hu,
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
 
+* Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey. <br>
+Huang, Wei-Chieh; Zhang, Weizhi; Liang, Yueqing; Bei, Yuanchen; Chen, Yankai; Feng, Tao; Pan, Xinyu; Tan, Zhen; et al. <br>
+*Transactions on Machine Learning Research (TMLR 2026).*
+
+
 * Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening. <br>
 Mohan Zhang, Yuqi Jia, **Zhen Tan**, Steven Jiang, Neil Zhenqiang Gong, Tianlong Chen, Dawn Song. <br>
 *USENIX Security Symposium 2026.*
