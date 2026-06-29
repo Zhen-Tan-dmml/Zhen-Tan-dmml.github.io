@@ -45,7 +45,7 @@ Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng,
 *Conference on Parsimony and Learning (CPAL 2026).*
 
 * Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey. <br>
-Huang, Wei-Chieh; Zhang, Weizhi; Liang, Yueqing; Bei, Yuanchen; Chen, Yankai; Feng, Tao; Pan, Xinyu; Tan, Zhen; et al. <br>
+Huang, Wei-Chieh; Zhang, Weizhi; Liang, Yueqing; Bei, Yuanchen; Chen, Yankai; Feng, Tao; Pan, Xinyu; **Tan, Zhen**; et al. <br>
 *Transactions on Machine Learning Research (TMLR 2026).*
 
 
