@@ -22,7 +22,7 @@ redirect_from:
 </div>
 
 # News and Updates
-* 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Our comprehensive survey on "Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey" is accepted to **TMLR**! 
+* 2026.06:  <span style="color:#8B4513;">[Paper]</span> 🎉 Our comprehensive survey on "Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey" is accepted to **TMLR**! 
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **npj Digital Medicine**! 
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **USENIX Security Symposium** 2026! It's my first paper in security conference!
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **KDD** 2026 research track! See you in Jeju, South Korea!
