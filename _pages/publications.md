@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Explaining the "Unexplainable" Large Language Models <br>
+<!-- * Explaining the "Unexplainable" Large Language Models <br>
 Tutorial @ ICDM 2025
 **Zhen Tan**, Song Wang, Jing Ma, Tianlong Chen, Jundong Li, Huan Liu. <br>
 👉 **[Click to view the slides (Google Drive) with a request](https://drive.google.com/file/d/1hfoMRywXAVjE_JzxOuCtf8CfNGF2amaB/view?usp=sharing)**
@@ -356,4 +356,4 @@ Hirthik Mathavan, **Zhen Tan**, Nivedh Mudiam, Huan Liu. <br>
 **Zhen Tan**, Kaize Ding, Ruocheng Guo, Huan Liu. <br>
 *ACM international Conference on Web Search and Data Mining (WSDM 2022).*
 
-
+ -->

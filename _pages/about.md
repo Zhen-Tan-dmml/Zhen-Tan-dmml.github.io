@@ -11,17 +11,17 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year Ph.D. at the [Arizona State University](https://www.asu.edu/) in Computer Science under the supervision of [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). Previously, I received my master's and bachelor's degrees from [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), respectively. 
+👨🏻‍💻 I am a tenure-track Assistant Professor at the School of Computing at Stevens Institute of Technology. Previously, I received my Ph.D. at the [Arizona State University](https://www.asu.edu/) in Computer Science under the supervision of [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). Prior to that, I received my master's and bachelor's degrees from [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), respectively. 
 
-🔬 My research spans human-centered AI, explainable and interpretable machine learning, foundation models, and trustworthy AI systems. I study the foundations of explainability, including its intrinsic limits, faithfulness, and the tension between simple explanations and complex model behaviors. Building on these foundations, I develop actionable explainability methods, where explanations actively guide model reasoning, agent decision-making, alignment, safety, and human–AI interaction. A core part of my work emphasizes interdisciplinary impact, creating explainable and reliable AI algorithms for applications in healthcare, computational bioinformatics, social science, and robotics.
+<!-- 🔬 My research spans human-centered AI, explainable and interpretable machine learning, foundation models, and trustworthy AI systems. I study the foundations of explainability, including its intrinsic limits, faithfulness, and the tension between simple explanations and complex model behaviors. Building on these foundations, I develop actionable explainability methods, where explanations actively guide model reasoning, agent decision-making, alignment, safety, and human–AI interaction. A core part of my work emphasizes interdisciplinary impact, creating explainable and reliable AI algorithms for applications in healthcare, computational bioinformatics, social science, and robotics.
 
 *Looking forward, I am interested in moving beyond post-hoc explanations toward principle-informed (e.g., physics/biology-informed) AI model/agent, where model behavior is guided by domain knowledge, structured priors, and feedback-driven learning such as reinforcement learning. I seek to build foundation models and AI agents that are more interpretable, controllable, generalizable, and scientifically grounded.*
 
 <div style="background-color: #fff3cd; padding: 10px 14px; border-left: 5px solid #f0ad4e; border-radius: 6px;">
 <strong>[Hiring]</strong> I will join the School of Computing at Stevens Institute of Technology as a tenure-track Assistant Professor. I am recruiting multiple Ph.D. students starting in 2027 Spring/Fall, as well as research interns, externs, and visiting students. Interested candidates are strongly encouraged to contact me at zhentan6129[AT]gmail.com with their CV/resume and transcripts.
-</div>
+</div> -->
 
-# News and Updates
+<!-- # News and Updates
 * 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **COLM** 2026! See you in San Francisco! 
 * 2026.06:  <span style="color:#8B4513;">[Paper]</span> 🎉 Our comprehensive survey on "Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey" is accepted to **TMLR**! 
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **npj Digital Medicine**! 
@@ -56,7 +56,7 @@ redirect_from:
 * 2025.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **ICML** 2025! See you in Vancouver (maybe)!
 * 2025.03:  <span style="color:#FF8C00;">[Award]</span> 🎉 One paper is accepted at **AMIA** Informatics Summit 2025 with <span style="color:red">**Marco Ramoni Distinguished Paper Award**</span>. 
 * 2025.01:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted at **ICLR** 2025 as **Spotlight**! See you in Singapore (maybe)!
-* 2024.12:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **AAAI** 2025 as <span style="color:red">**Orals**</span>! See you in Philadelphia (definitely)!
+* 2024.12:  <span style="color:#8B4513;">[Paper]</span> 🎉 Two papers are accepted at **AAAI** 2025 as <span style="color:red">**Orals**</span>! See you in Philadelphia (definitely)! -->
 
 
 <!-- # Experience -->

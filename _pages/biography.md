@@ -22,7 +22,7 @@ Advisor: [Dr. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) & [Dr. Manish P
 Huazhong University of Science and Technology (HUST), Wuhan, Hubei <br>
 B.S., Electrical Engineering <br>
 
-# Industrial Experiences
+<!-- # Industrial Experiences
 
 * **Google Cloud AI**, Research Intern, 2024
 * **Amazon Science**, Applied Scientist Intern, 2024
@@ -73,7 +73,7 @@ B.S., Electrical Engineering <br>
 - SBP-BRiMS Conference Scholarship *(2025)*
 - AAAI NSF Travel Award *(2024)*
 - SIGKDD Student Travel Award *(2023)*
-- WSDM Student Travel Award *(2022)*
+- WSDM Student Travel Award *(2022)* -->
 
 
 
