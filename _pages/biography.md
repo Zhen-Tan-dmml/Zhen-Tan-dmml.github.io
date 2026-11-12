@@ -34,7 +34,7 @@ B.S., Electrical Engineering <br>
 
 **Journal Reviewer:** IEEE TPAMI; IEEE TNNLS; IEEE TKDE; ACM TKDD
 
-**Area Chair:** IEEE DSAA 2025
+**Area Chair:** IEEE DSAA 2025, ARR 2026, AAAI 2027
 
 **Conference Program Committees / Reviewer:**  
 - *Data Mining & Information Retrieval:* KDD, WWW, WSDM, SIGIR, etc. (2022–present)  
