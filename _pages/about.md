@@ -22,6 +22,8 @@ redirect_from:
 </div> -->
 
 # News and Updates
+* 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 Four papers are accepted to **NeurIPS** 2026!  
+* 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **EMNLP** main 2026!  
 * 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **COLM** 2026! See you in San Francisco! 
 * 2026.06:  <span style="color:#8B4513;">[Paper]</span> 🎉 Our comprehensive survey on "Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey" is accepted to **TMLR**! 
 * 2026.05:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **npj Digital Medicine**! 
