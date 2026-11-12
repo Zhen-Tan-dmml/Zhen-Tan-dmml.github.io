@@ -43,6 +43,29 @@ Zhimin Li1\*, Ruichen Zhang\*, **Zhen Tan\***, Howard J Aizenstein, Jingtong Hu,
 * Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs. <br>
 Ruichen Zhang\*, Mufan Qiu\*, **Zhen Tan\***, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z Agudelo, Peter Qian, Tianlong Chen. <br>
 *Conference on Parsimony and Learning (CPAL 2026).*
+* ASSET: Acquisition-Sensitive Subspace Estimation for Test-Time Adaptation of Medical VLMs. <br>
+Mohan Zhang, **Zhen Tan**, Songyuan Sui, Tianlong Chen. <br>
+*Conference on Neural Information Processing Systems (NeurIPS 2026).*
+
+
+* Do More Modalities Always Help? A Geometric Perspective on Missing-Modality Robustness. <br>
+Songyuan Sui, **Zhen Tan**, Mohan Zhang, Rana Muhammad Shahroz Khan, Xia Hu, Tianlong Chen. <br>
+*Conference on Neural Information Processing Systems (NeurIPS 2026).*
+
+
+* Combating Catastrophic Forgetting in Continual Domain Adaptation via Knowledge Recasting. <br>
+Zijie Liu, **Zhen Tan**, Charles Fleming, Tianlong Chen. <br>
+*Conference on Neural Information Processing Systems (NeurIPS 2026).*
+
+
+* Guarding the Life Code: Preserving Membership Privacy in Genomic Foundation Models. <br>
+Xinyu Zhao, Jinhao Duan, **Zhen Tan**, Tianlong Chen. <br>
+*Conference on Neural Information Processing Systems (NeurIPS 2026).*
+
+* DrugReason: Dynamic Multi-View Reasoning over Knowledge Graph and Language Evidence for Drug Repurposing. <br>
+Zijie Liu\*, Hongxuan Li\*, **Zhen Tan**, Jinhao Duan, Baixiang Huang, Zunpeng Liu, Kai Shu, Tianlong Chen. <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP Main 2026).*
+
 
 * TRUST: A Crowdsourcing Framework for Auditing Large Language Model Reasoning. <br>
 Morris Yu-Chao Huang, **Zhen Tan**, Mohan Zhang, Pingzhi Li, Zhuo Zhang, Tianlong Chen. <br>
