@@ -10,16 +10,19 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I am a tenure-track Assistant Professor at the School of Computing at Stevens Institute of Technology. Previously, I received my Ph.D. at the [Arizona State University](https://www.asu.edu/) in Computer Science under the supervision of [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). Prior to that, I received my master's and bachelor's degrees from [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), respectively. 
 
-🔬 My research spans human-centered AI, explainable and interpretable machine learning, foundation models, and trustworthy AI systems. I study the foundations of explainability, including its intrinsic limits, faithfulness, and the tension between simple explanations and complex model behaviors. Building on these foundations, I develop actionable explainability methods, where explanations actively guide model reasoning, agent decision-making, alignment, safety, and human–AI interaction. A core part of my work emphasizes interdisciplinary impact, creating explainable and reliable AI algorithms for applications in healthcare, computational bioinformatics, social science, and robotics.
+👨🏻‍💻 I am a **tenure-track Assistant Professor** in the [School of Computing](https://www.stevens.edu/school-computing) at **Stevens Institute of Technology**, where I lead the **Stevens Trustworthy AI and Neurosymbolics (STAN) Lab**. I received my Ph.D. in Computer Science from [Arizona State University](https://www.asu.edu/), advised by [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). Prior to that, I earned my master's degree from [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and my bachelor's degree from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/).
 
-*Looking forward, I am interested in moving beyond post-hoc explanations toward principle-informed (e.g., physics/biology-informed) AI model/agent, where model behavior is guided by domain knowledge, structured priors, and feedback-driven learning such as reinforcement learning. I seek to build foundation models and AI agents that are more interpretable, controllable, generalizable, and scientifically grounded.*
+🔬 **My research focuses on developing trustworthy, interpretable, and scientifically grounded AI systems.** My work lies at the intersection of **foundation models, neuro-symbolic learning, reliable reasoning, and AI for science**. I investigate the fundamental capabilities and limitations of modern AI models, particularly their interpretability, reasoning, generalization, and reliability. Building upon these insights, I develop new learning and reasoning frameworks that integrate structured knowledge, domain-specific principles, and feedback-driven optimization to create more capable, controllable, and trustworthy AI systems.
+
+🚀 **Looking forward**, my research aims to move beyond purely data-driven learning and post-hoc explanations toward **principle-informed foundation models and autonomous AI agents**. By incorporating physical laws, biological knowledge, symbolic structures, and reinforcement learning, I seek to develop AI systems that can reason reliably, generalize beyond their training distributions, and accelerate scientific discovery. My research emphasizes interdisciplinary applications, particularly in **healthcare, computational biology, robotics, and scientific discovery**.
 
 <div style="background-color: #fff3cd; padding: 10px 14px; border-left: 5px solid #f0ad4e; border-radius: 6px;">
-<strong>[Hiring]</strong> I will join the School of Computing at Stevens Institute of Technology as a tenure-track Assistant Professor. I am recruiting multiple Ph.D. students starting in 2027 Fall, as well as research interns, externs, and visiting students. Interested candidates are strongly encouraged to contact me at zhentan6129[AT]gmail.com with their CV/resume and transcripts.
-</div> -->
+
+**[Hiring]** I am actively recruiting **Ph.D. students for Fall 2027**, as well as research interns, externs, and visiting students, to join **STAN Lab** at Stevens Institute of Technology. We are looking for highly motivated researchers interested in foundation models, trustworthy AI, neuro-symbolic reasoning, and AI for science. Interested candidates are encouraged to contact me at **zhentan6129[AT]gmail.com** with their CV/resume, transcripts, and a brief description of their research interests.
+
+</div>
+
 
 # News and Updates
 * 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 Four papers are accepted to **NeurIPS** 2026!  
