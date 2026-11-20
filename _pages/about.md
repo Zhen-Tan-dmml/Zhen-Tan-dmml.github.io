@@ -28,7 +28,7 @@ redirect_from:
 
 # News and Updates
 
-* 2026.11: <span style="color: #8C1D40;">[Award]</span> 🎉 Honored to receive the <span style="color: #8C1D40;">**2026–27 Dean's Dissertation Award**</span> from ASU's Ira A. Fulton Schools of Engineering! Heartfelt thanks to my Ph.D. advisor, Prof. Huan Liu, and my dissertation committee for the invaluable guidance and support!
+* 2026.11: <span style="color: #8C1D40;">[Award]</span> 🎉 Honored to receive the <span style="color: #8C1D40;">2026–27 **Dean's Dissertation Award**</span> from ASU's Ira A. Fulton Schools of Engineering! Heartfelt thanks to my Ph.D. advisor, Prof. Huan Liu, and my dissertation committee for the invaluable guidance and support!
 * 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 Four papers are accepted to **NeurIPS** 2026!  
 * 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **EMNLP** main 2026!  
 * 2026.07:  <span style="color:#8B4513;">[Paper]</span> 🎉 One paper is accepted to **COLM** 2026! See you in San Francisco! 
