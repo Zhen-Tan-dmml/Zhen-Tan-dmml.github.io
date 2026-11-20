@@ -55,6 +55,7 @@ B.S., Electrical Engineering <br>
 # Honors & Awards
 
 **Research Awards and Scholarships**
+- Dean's Dissertation Award, Arizona State University *(2026–27)*
 - CPAL Rising Stars Award *(2026)*
 - IJCAI Best Paper Track *(2025)*
 - Marco Ramoni Distinguished Paper Award *(2025)*
